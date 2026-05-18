@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-05-05 21:56 UTC\n"
-"PO-Revision-Date: 2023-05-05 18:01-0400\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2023-05-05 18:00-0400\n"
+"Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
-"Language: fr\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.2.2\n"
 
 #. [campaign]: id=knights_of_the_silver_spire, type=sp
@@ -29,12 +29,12 @@ msgstr ""
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:40
 #: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:35
 msgid "Knights of the Silver Spire"
-msgstr "Les Chevaliers de la Tour d'Argent"
+msgstr "銀の尖塔騎士団"
 
 #. [campaign]: id=knights_of_the_silver_spire, type=sp
 #: knights_of_the_silver_spire\_main.cfg:26
 msgid "KotSS"
-msgstr "CTA"
+msgstr "KotSS"
 
 #. [campaign]: id=knights_of_the_silver_spire, type=sp
 #: knights_of_the_silver_spire\_main.cfg:32
@@ -44,45 +44,45 @@ msgid ""
 "\n"
 "(Intermediate level, 9 scenarios, 3 endings)."
 msgstr ""
-"L'histoire des Chevaliers de la Tour d'Argent et de leur combat contre le "
-"maléfique Duc Pourpre pour garder le Nord sûr.\n"
+"銀の尖塔騎士団が、Northland の安全を守るため、邪悪な Crimson Duke の一味と戦"
+"闘を繰り広げる物語です．\n"
 "\n"
-"(Niveau intermédiaire, 9 scénarios, 3 fins)."
+"(中級、9シナリオ、3エンディング）"
 
 #. [campaign]: id=knights_of_the_silver_spire, type=sp
 #: knights_of_the_silver_spire\_main.cfg:36
 msgid "Horseman"
-msgstr "Cavalier"
+msgstr "騎兵"
 
 #. [campaign]: id=knights_of_the_silver_spire, type=sp
 #: knights_of_the_silver_spire\_main.cfg:36
 msgid "Easy"
-msgstr "Facile"
+msgstr "易しい"
 
 #. [campaign]: id=knights_of_the_silver_spire, type=sp
 #: knights_of_the_silver_spire\_main.cfg:37
 msgid "Knight"
-msgstr "Chevalier"
+msgstr "騎士"
 
 #. [campaign]: id=knights_of_the_silver_spire, type=sp
 #: knights_of_the_silver_spire\_main.cfg:37
 msgid "Normal"
-msgstr "Normal"
+msgstr "普通"
 
 #. [campaign]: id=knights_of_the_silver_spire, type=sp
 #: knights_of_the_silver_spire\_main.cfg:38
 msgid "Paladin"
-msgstr "Paladin"
+msgstr "聖騎士"
 
 #. [campaign]: id=knights_of_the_silver_spire, type=sp
 #: knights_of_the_silver_spire\_main.cfg:38
 msgid "Hard"
-msgstr "Difficile"
+msgstr "難しい"
 
 #. [about]
 #: knights_of_the_silver_spire\_main.cfg:66
 msgid "Campaign design and programming"
-msgstr "Conception et programmation de la campagne"
+msgstr "キャンペーン設計とプログラミング"
 
 #. [entry]
 #: knights_of_the_silver_spire\_main.cfg:68
@@ -92,7 +92,7 @@ msgstr "hopelight"
 #. [about]
 #: knights_of_the_silver_spire\_main.cfg:72
 msgid "Original vampire faction (Era of Myths)"
-msgstr "Faction des vampires d'origine (Era of Myths)"
+msgstr "オリジナルの ヴァンパイア族 (Era of Myths)"
 
 #. [entry]
 #: knights_of_the_silver_spire\_main.cfg:74
@@ -122,7 +122,7 @@ msgstr "Eleazar"
 #. [about]
 #: knights_of_the_silver_spire\_main.cfg:90
 msgid "War of Legends (Vampire code and associated images)"
-msgstr "War of Legends (code des vampires et images associées)"
+msgstr "War of Legends (Vampire code and associated images)"
 
 #. [entry]
 #: knights_of_the_silver_spire\_main.cfg:92
@@ -132,23 +132,23 @@ msgstr "Tahsin Jahin Khalid (Lord-Knightmare)"
 #. [about]
 #: knights_of_the_silver_spire\_main.cfg:96
 msgid "Horse Lord unit line"
-msgstr "Ligne d'unités: Seigneur des chevaux"
+msgstr "Horse Lord unit line"
 
 #. [entry]
 #: knights_of_the_silver_spire\_main.cfg:98
 #: knights_of_the_silver_spire\_main.cfg:104
 msgid "Battle for Wesnoth team"
-msgstr "L'équipe de Bataille pour Wesnoth"
+msgstr "Battle for Wesnoth チーム"
 
 #. [about]
 #: knights_of_the_silver_spire\_main.cfg:102
 msgid "Mounted General unit line"
-msgstr "Ligne d'unités: Général monté"
+msgstr "Mounted General unit line"
 
 #. [about]
 #: knights_of_the_silver_spire\_main.cfg:108
 msgid "Japanese Translation"
-msgstr "Traduction japonaise"
+msgstr "日本語翻訳"
 
 #. [entry]
 #: knights_of_the_silver_spire\_main.cfg:110
@@ -159,32 +159,32 @@ msgstr "chee/k.k konami,k"
 #: knights_of_the_silver_spire\_main.cfg:114
 #: knights_of_the_silver_spire\_main.cfg:123
 msgid "Special Thanks"
-msgstr "Remerciements"
+msgstr "特別な感謝"
 
 #. [entry]
 #: knights_of_the_silver_spire\_main.cfg:116
 msgid "The Battle for Wesnoth project's contributors over the years."
-msgstr "Les contributeurs à Bataille pour Wesnoth au cours des années."
+msgstr "The Battle for Wesnothプロジェクトの歴代の貢献者."
 
 #. [entry]
 #: knights_of_the_silver_spire\_main.cfg:119
 msgid "... Otherwise nobody would be here ..."
-msgstr "… Sinon personne ne serait ici ..."
+msgstr "... そうでなければ、誰もここにいないでしょう ..."
 
 #. [entry]
 #: knights_of_the_silver_spire\_main.cfg:125
 msgid "Whoever wrote the description of the Mermaid Diviner"
-msgstr "La personne qui a écrit la description de l'oracle ondine"
+msgstr "人魚占い師の解説文を執筆した皆さん"
 
 #. [entry]
 #: knights_of_the_silver_spire\_main.cfg:128
 msgid "Where do you all think I got the inspiration for this?"
-msgstr "D'où pensez-vous que j'ai eu l'inspiration pour ceci?"
+msgstr "私はどこからインスピレーションを得たのでしょうね？"
 
 #. [scenario]: id=01_Another_Patrol
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:5
 msgid "Another Patrol"
-msgstr "Une autre patrouille"
+msgstr "巡回中のできごと"
 
 #. [side]: id=BL1, type=Thief
 #. [side]: id=BL1, type=Bandit
@@ -200,13 +200,13 @@ msgstr "Une autre patrouille"
 #: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:72
 #: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:51
 msgid "Bandits"
-msgstr "Bandits"
+msgstr "山賊"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:74
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:89
 msgid "<i>Version Information</i>"
-msgstr "<I>Information sur la version</i>"
+msgstr "<i>バージョン情報</i>"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:75
@@ -224,19 +224,20 @@ msgid ""
 "\n"
 "In any case, onto the story!"
 msgstr ""
-"Cette campagne est aussi conçue pour fonctionner sans l'extension War of "
-"Legends.\n"
+"このキャンペーンは、MP時代アドオン <i>War of Legends </i> がなくても動作する"
+"ように設計されています。\n"
 "\n"
-"Celle-ci est présentement installée donc la campagne se déroulera avec des "
-"unités vampires de l'Era of Myths.\n"
+"現在 War of Legends がインストールされていますので、神話の時代（Era of "
+"Myths）のヴァンパイアユニットが登場するバージョンをプレイすることになりま"
+"す。\n"
 "\n"
-"Si tu préfères jouer à l'autre version (inférieure), il suffit de "
-"désinstaller l'extension War of Legends.\n"
+"他のバージョンをプレイしたい場合は、War of Legends をアンインストールしてくだ"
+"さい。\n"
 "\n"
-"Note: L'autre version a pour but d'être une solution de rechange pour "
-"quiconque ne peut pas installer War of Legends.\n"
+"なお、他のバージョンは、何らかの理由で War of Legends をインストールできない"
+"人のための「一時しのぎ」であることを意味します。\n"
 "\n"
-"Dans tous les cas, en avant vers l'histoire!"
+"まあとにかく、物語の始まりです！"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:90
@@ -255,20 +256,20 @@ msgid ""
 "\n"
 "In any case, onto the story!"
 msgstr ""
-"Cette campagne est aussi conçue pour fonctionner sans l'extension <i>War of "
-"Legends</i>.\n"
+"このキャンペーンは、MP時代アドオン <i>War of Legends </i> がなくても動作する"
+"ように設計されています。\n"
 "\n"
-"Celle-ci n'est présentement pas installée donc la campagne se déroulera sans "
-"les unités vampires de l'Era of Myths.\n"
+"現在 War of Legends がインストールされていませんので、神話の時代（Era of "
+"Myths）のヴァンパイアユニットが登場しないバージョンをプレイすることになりま"
+"す。\n"
 "\n"
-"Si tu préfères jouer à l'autre version (supérieure), il suffit d'installer "
-"l'extension <i>War of Legends</i>.\n"
+"他の（より良い）バージョンをプレイしたい場合は、War of Legends をインストール"
+"してください。\n"
 "\n"
-"Note: Cette version a pour but d'être une solution de rechange pour "
-"quiconque ne peut pas installer War of Legends.\n"
+"このバージョンは、何らかの理由で War of Legends をインストールできない人のた"
+"めの「一時しのぎ」であることを意味します。\n"
 "\n"
-"\n"
-"Dans tous les cas, en avant vers l'histoire!"
+"まあとにかく、物語の始まりです！"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:105
@@ -279,11 +280,10 @@ msgid ""
 "The orcish menace had been beaten back and the lands between Elensefar and "
 "Weldyn pacified."
 msgstr ""
-"En l'an 253 depuis la fondation de Wesnoth, le royaume prospérait sous le "
-"règne de Haldric III, Roi de Wesnoth. \n"
+"Wesnoth 建国から253年、Wesnoth 王 Haldric 3世の統治下で王国は栄えていまし"
+"た。\n"
 "\n"
-"La menace orc avait été repoussée et les terres entre Elensefar et Weldyn "
-"pacifiées."
+"オークの脅威を撃退し、Elensefar と Weldyn の間の土地を平定しました。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:110
@@ -292,10 +292,9 @@ msgid ""
 "and now, more than fifty years later, thriving settlements had sprung up at "
 "the foot of the Heart Mountains and even beyond, in the Far North."
 msgstr ""
-"Depuis 199YW, la colonisation des terres au nord du Grand Fleuve avaient "
-"commencées et maintenant, plus de cinquante ans après, des patelins "
-"prospères avaient vu jour au pied des Montagnes Centrales, et même plus "
-"loin, dans le Grand Nord."
+"Wesnoth 暦 199年以降、グレートリバー以北の植民地化が始まって、50年以上が経過"
+"した今、ハートマウンテンの麓、さらにはその先の極北の地にも活気ある集落が誕生"
+"していました。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:113
@@ -307,12 +306,11 @@ msgid ""
 "This, in turn, led to widespread banditry as the army was often occupied "
 "repelling orcish incursions."
 msgstr ""
-"Cependant, bien que le reste du royaume était relativement paisible, c'était "
-"loin d'être le cas dans les régions nordiques où la présence orc était bien "
-"plus importante que plus au sud.\n"
+"ただ、王国の大部分の地域は比較的平和でしたが、極北部はこれとは違い、オークの"
+"存在は他に比べて遥かに大きいものでした。\n"
 "\n"
-"Ceci menait à du banditisme répandu comme l'armée était souvent occupée par "
-"des incursions orcs à repousser."
+"そのため、軍隊はオークの侵入を防ぐことに手一杯で、山賊の蔓延を許すこととなっ"
+"てしまいました。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:118
@@ -325,14 +323,12 @@ msgid ""
 "Silver Spire, named for the argent shine of the tower that served as their "
 "headquarters within Dorest, the largest city north of the Longlier."
 msgstr ""
-"Les premières colonies n'auraient pas survécu sans l'aide d'ordre de "
-"chevaliers qui parcouraient le royaume, défendant des routes commerciales "
-"vitales et protégeant le peuple contre des bons à riens.\n"
+"初期の入植地は、騎士団の助けなしでは存続できなかったことでしょう。彼らは大地"
+"を歩き回り、重要な交易路を守り、悪人から市民を守っていたのです。\n"
 "\n"
-"Parmi ces bandes de guerriers virtueux se trouvaient els chevaliers de la "
-"Tour d'Argent, nommés ainsi pour la couleur argentée de la tour qui leur "
-"servait de quartier général dans Dorest, la plus grande ville au nord de la "
-"rivière Long-Repos."
+"こうした正義の戦士たちの中に、銀の尖塔騎士団がいました。その名前の由来は... "
+"銀の尖塔とは、Longlier 北部最大の都市 Dorest 内に本部の機能を持っている塔で、"
+"その輝きにちなんで命名されました。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:123
@@ -344,12 +340,11 @@ msgid ""
 "to establish themselves as stalwart defenders of the innocent and were "
 "tireless in their battles against the enemies of the kingdom."
 msgstr ""
-"Leur meneur était un jeune chevalier du royaume qui était allé avec ses amis "
-"aider à rendre le nord sûr.\n"
+"リーダーは Wesnoth の若い騎士で、Northlands の安全を守るため仲間と共に行動し"
+"ていました。\n"
 "\n"
-"Bien qu'ils étaient relativement nouveaux et peu nombreux, ils avaient déjà "
-"commencé à s'établir comme de vaillants protecteurs des innocents et étaient "
-"infatigables dans leurs combats contre les ennemis du royaume."
+"彼らは比較的新顔で少人数にも関わらず、すでに善良な市民の確固たる守護者として"
+"地位を築き始めていて、王国の敵との戦いにも疲れ知らずでした。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:130
@@ -361,14 +356,12 @@ msgid ""
 "They sped with all haste towards the village, hoping to help the villagers "
 "and perhaps even find some way to take out the bandits' leader."
 msgstr ""
-"Ceci n'était donc une journée comme les autres, une autre patrouille sur la "
-"route vers Lmarig lorsqu'ils apprirent que le village était en train d'être "
-"mis à sac par des bandits, des servants du Duc Pourpre, un nouveau seigneur "
-"bandit qui était apparu dans la région.\n"
+"その日も Lmarig に向かう道の警備をしていると、山賊に村が襲撃されていることを"
+"知りました。盗賊たちは、この地域に現れた新手の山賊頭 Crimson Duke の配下でし"
+"た。\n"
 "\n"
-"Ils se dirigèrent en toute hâte vers le village, espérant aider les "
-"villageois et peut-être même découvrir une manière de vaincre le chef de ces "
-"bandits."
+"村人たちを救うためと、山賊のリーダーを倒す方法を探るために、村へと急ぎ向かい"
+"ました。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:135
@@ -376,8 +369,8 @@ msgid ""
 "Chapter One\n"
 "<i>Just Another Patrol</i>"
 msgstr ""
-"Chapitre Un\n"
-"<i>Juste une autre patrouille</i>"
+"第1章\n"
+"<i>巡回中のできごと</i>"
 
 #. [message]: speaker=BL1
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:154
@@ -385,22 +378,23 @@ msgid ""
 "Oh my, ya didn't have that many riches but hey, it's still sum'thing. Tha "
 "Crimson Duke'll be happy!"
 msgstr ""
-"Oh là là, vous 'viez pas beaucoup de choses mais bon, c'est quelq'chose. Le "
-"Duc Pourpre sera ben content!"
+"あーあ、それほど金持ちじゃなかったのかい、ヘッ、そこそこには有るけどな。これ"
+"なら Crimson Duke 様も喜ぶだろ！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:158
 msgid "You pitiful wretch, attacking defenseless civilians!"
-msgstr "Sale vermine qui ose attaquer des villageois sans défense!"
+msgstr "無防備な市民を攻撃するとは、あさましい卑劣漢め！"
 
+# aight :  slung ...  all right
 #. [message]: speaker=BL1
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:162
 msgid ""
 "Foolish knights, prancing around... Aight boys, pack up the stuff, we're "
 "leavin' with da loot!"
 msgstr ""
-"Que de naïfs chevaliers, sautillant partout… Bon les gars, ramassez le "
-"butin, on s'en va avec!"
+"間抜けな騎士団が、ウロウロしやがって... おい、野郎ども、荷物をまとめろ、お宝"
+"を持ってトンズラだ！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:166
@@ -408,18 +402,18 @@ msgid ""
 "Rabble like you should be hanging, not blabbering. Let us rectify this "
 "travesty forthwith."
 msgstr ""
-"La canaille comme vous devrait pendre, pas se vanter. Nous allons rectifier "
-"cette travestie dans les plus brefs délais."
+"お前のような下らぬ奴は吊るし首だ、ぺちゃくちゃ喋るな。このインチキ野郎を即刻"
+"正してやる。"
 
 #. [message]: speaker=BL1
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:178
 msgid "Fall back, fall ba—!"
-msgstr "Retraite, retrai—!"
+msgstr "引け、引くんだ ―！"
 
 #. [message]: speaker=second_unit
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:188
 msgid "The scum is dead."
-msgstr "La racaille est morte."
+msgstr "クズは死にやがれ。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:195
@@ -427,25 +421,23 @@ msgid ""
 "Scatter the wretches. They will run back to their main camp and we will "
 "slaughter them there."
 msgstr ""
-"Dispersez ces vermines. Ils fuiront vers le camp principal et nous les "
-"massacrerons là-bas."
+"あの卑劣漢どもを蹴散らせ。自分の根城に逃げ帰ったところで、奴ら全員を虐殺する"
+"のだ。"
 
 #. [message]: speaker=BL1
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:204
 msgid "We've got all we could've asked for. Let's lose'em in the mountains!"
-msgstr ""
-"On a tout ce qu'on aurait pu vouloir. On perdra les chevaliers dans les "
-"montagnes!"
+msgstr "欲しかったもの全部を手に入れた。山の中でアイツらをノシちまいな！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:208
 msgid "No! The villagers won't survive without food!"
-msgstr "Non! Les villageois ne survivront pas sans nourriture!"
+msgstr "くそー！村民は食料無しでは生きられない！"
 
 #. [scenario]: id=02_Bandit_Camp
 #: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:5
 msgid "Bandit Camp"
-msgstr "Le camp des bandits"
+msgstr "山賊の野営地"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:71
@@ -456,12 +448,10 @@ msgid ""
 "The knights followed them into the mountains, that they might put an end to "
 "this specific threat, once and for all."
 msgstr ""
-"Après la bataille, les restes de la troupe de bandits se dispersa, les "
-"survivants essayant désespérément de retourner à leur camp et d'y être en "
-"sûreté.\n"
+"戦闘後、山賊の残党は散り散りとなり、野営地へと逃げ帰りだしました。\n"
 "\n"
-"Les chevaliers les suivirent dans les montagnes pour mettre fin à cette "
-"menace une fois pour toute."
+"騎士団は彼らの後を追って山へと入っていき、この脅威を完璧に断ち切ろうとしてい"
+"ました。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:76
@@ -469,42 +459,41 @@ msgid ""
 "Chapter Two\n"
 "<i>Bandit Camp</i>"
 msgstr ""
-"Chapitre Deux\n"
-"<Le camp des bandits</i>"
+"第2章\n"
+"<i>山賊の野営地</i>"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:95
 msgid "Oh my, more vermin to kill..."
-msgstr "O là là, plus de racaille à tuer..."
+msgstr "何てことだ、退治すべき害虫どもが、まだまだ居やがる..."
 
 #. [message]: speaker=BBM
 #: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:99
 msgid "Fools, you led them right here!"
-msgstr "Crétins, vous les avez menés ici!"
+msgstr "この馬鹿タレが！お前がアイツらを連れてきたんだぞ！"
 
 #. [message]: speaker=BL1
 #: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:103
 msgid "I'll handle 'em master, the Crimson Duke won't be unhappy!"
-msgstr "J' m'occupe d'eux maître, le Duc Pourpre ne s'ra pas mécontent!"
+msgstr ""
+"アッシが何とかしやす、カシラ。Crimson Duke 様をがっかりさせませんから！"
 
 #. [message]: speaker=BBM
 #: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:107
 msgid "See that you give him no cause to be displeased."
-msgstr "Voyez à ne pas lui donner de raison d'être contrarié."
+msgstr "おう、カシラをぶち切らせたりすんじゃねえぞ、いいな。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:120
 msgid ""
 "That man seemed to be their leader. We must go through them fast and catch "
 "him!"
-msgstr ""
-"Cet homme semblait être leur meneur. Nous devons en finir rapidement avec "
-"eux pour le capturer!"
+msgstr "あいつがリーダーらしいな。さっさと行って捕縛しないと！"
 
 #. [message]: speaker=BL1
 #: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:132
 msgid "Nooo, master!"
-msgstr "Nooon, maître!"
+msgstr "あーー、カシラ！"
 
 #. [message]: speaker=second_unit
 #: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:142
@@ -512,24 +501,23 @@ msgid ""
 "And down he goes... That amount of devotion was unusual, however... Is it "
 "because of that <i>Crimson Duke</i> they have as a leader?"
 msgstr ""
-"Et le voilà qui tombe au combat... Cette dévotion était inhabituelle pour un "
-"bandit par contre… Est-ce à cause de ce <i>Duc Pourpre</i> qu'ils ont comme "
-"chef?"
+"そしてアイツは、いっちまう... しっかし、アイツの忠誠心は大したもんだったよ"
+"な、<i>Crimson Duke </i>がリーダーだからか？"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:149
 msgid "Let us try and catch their <i>master</i> to find out why."
-msgstr "Essayons d'attraper leur <i>maître</i> pour comprendre pourquoi."
+msgstr "はっきりさせるために、奴らの”<i>カシラ </i>”を捕まえに行こう。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:158
 msgid "This is too slow, at this rate he will be lost to us!"
-msgstr "Cela prend trop de temps, à cette vitesse-ci on ne le rattrapera pas!"
+msgstr "時間を掛け過ぎだ。これでは奴らが消え失せてしまう！"
 
 #. [scenario]: id=03_Merfolk_Party
 #: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:5
 msgid "Merfolk Party"
-msgstr "Groupe ondin"
+msgstr "マーフォークの集団"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:98
@@ -539,10 +527,10 @@ msgid ""
 "\n"
 "However, it proved elusive and its trail was lost north of the mountains."
 msgstr ""
-"Les chevaliers se hâtèrent aux trousses de la mystérieuse figure afin "
-"d'apprendre son identité.\n"
-"\n"
-"Cependant, elle fut élusive et ils perdirent sa piste au nord des montagnes."
+"騎士団はリーダーの招待を突き止めようと、得体の知れない物たちの後を急いで追い"
+"ました。\n"
+"\t\n"
+"それでもその姿は捉え難く、山の北部で足跡は途切れてしまいました。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:103
@@ -550,9 +538,8 @@ msgid ""
 "This was not all in vain however, for they encountered merfolk battling "
 "bandits and dark mages at the source of the River Oumph."
 msgstr ""
-"Ceci ne fut pas complètement en vain malgré tout car ils rencontrèrent des "
-"ondins combattant des bandits et des mages noirs à la source de la rivière "
-"Oumph."
+"しかし無駄に終わったわけではありませんでした。Oumph 川の源流で、マーフォーク"
+"たちが山賊と魔術師の一行と戦っているところに遭遇したのです。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:106
@@ -560,13 +547,13 @@ msgid ""
 "Chapter Three\n"
 "<i>Merfolk Party</i>"
 msgstr ""
-"Chapitre Trois\n"
-"<I>Groupe ondin</I>"
+"第3章\n"
+"<i>マーフォークの集団</i>"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:125
 msgid "Hail, noble knights. What brings you here?"
-msgstr "Salut, nobles chevaliers. Qu'est-ce qui vous amène ici?"
+msgstr "これは、高貴な騎士団。どうしてここに？"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:129
@@ -575,9 +562,8 @@ msgid ""
 "villages south of here. They have eluded us, though others of their ilk seem "
 "to have found their way to you."
 msgstr ""
-"Salutations, belle dame. Nous pourchassons des bandits ayant attaqué des "
-"villages humains au sud d'ici. Ils nous ont échappés, cependant d'autres de "
-"leur espèce semblent vous importuner."
+"ご機嫌いかがですか、ご婦人。この南にある村の人間を襲った山賊を追って来たので"
+"す。奴らに巻かれてしまいましたが、その一部がこちらに来たようです。"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:133
@@ -586,24 +572,23 @@ msgid ""
 "us from heading downriver where their brethren are looting an ancient temple "
 "hiding dark relics!"
 msgstr ""
-"Ils le font effectivement et je requerrais votre aide car ils souhaitent "
-"nous empêcher de nous rendre en aval là où leurs confrères pillent un ancien "
-"temple abritant des reliques maléfiques!"
+"お察しのとおりですよ。お手伝いください。彼らは、私たちを下流に行けなくするつ"
+"もりです。そこには彼らが暗黒の遺跡を隠している、古代神殿があるのです！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:137
 msgid "Then we must provide assistance against these miscreants!"
-msgstr "Il est de notre devoir de porter assistances contre ces mécréants!"
+msgstr "ならばこの悪党どもを倒す手助けをせねばなりません！"
 
 #. [message]: speaker=BL1
 #: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:149
 msgid "I am sorry... m'lord..."
-msgstr "Je suis désolé… mons'gneur..."
+msgstr "すまねえ... おカシラ..."
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:156
 msgid "They were quite dedicated to their superiors."
-msgstr "Ils étaient dédiés à leurs supérieurs."
+msgstr "アイツらの、リーダーへの忠誠は大したものだな。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:160
@@ -611,18 +596,18 @@ msgid ""
 "Ours were as well, perhaps they are of the same kind. In any case, let us "
 "head north as fast as possible."
 msgstr ""
-"Ceux que nous pourchassions aussi. Peut-être sont-ils de la même espèce. En "
-"tout cas, dirigeons-nous au nord avec hâte."
+"我々だってそうじゃないか、おそらく似たようなものさ。とにかく、一刻も早く北へ"
+"向かおう。"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:169
 msgid "At this rate we shall never reach the temple in time!"
-msgstr "À ce rythme nous n'atteindrons jamais le temple à temps!"
+msgstr "この調子では、神殿に着いた頃には手遅れだ！"
 
 #. [scenario]: id=04_Temple_Assault
 #: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:5
 msgid "Temple Assault"
-msgstr "Assaut du Temple"
+msgstr "神殿襲撃"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:98
@@ -634,13 +619,11 @@ msgid ""
 "their loyalty to the one the caped figure represented, though they believed "
 "they would soon obtain the answers."
 msgstr ""
-"Après avoir rencontré dame Ariel et ses troupes ondines, ils se dirigèrent "
-"tous au nord, vers l'embouchure de la rivière et le temple situé là.\n"
+"Lady Ariel とマーフォークの一団に遭遇した後、騎士団は北の河口とそこにある神殿"
+"を目指しました。\n"
 "\n"
-"Tout du long, ils se questionnèrent sur les motifs des bandits et la cause "
-"de leur loyauté envers la personne que le personnage mystérieux "
-"représentait. Ils pensaient cependant qu'ils obtiendraient bientôt des "
-"réponses."
+"道すがら彼らは、山賊の目的と、マントを羽織った人物に山賊が忠誠を誓う理由につ"
+"いて考えていましたが、いずれ答えが得られると信じていました。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:103
@@ -648,49 +631,48 @@ msgid ""
 "Chapter Four\n"
 "<i>Temple Assault</i>"
 msgstr ""
-"Chapitre Quatre\n"
-"<I>Assaut du Temple</i>"
+"第4章\n"
+"<i>神殿襲撃</i>"
 
 #. [label]
 #: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:124
 msgid "Ancient Temple"
-msgstr "Temple antique"
+msgstr "古代神殿"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:130
 msgid "We have arrived. It seems they have already entered the temple!"
-msgstr ""
-"Nous sommes arrivés. Ils semblent avoir déjà pénétré à l'intérieur du temple!"
+msgstr "着きましたよ。彼らは、もう神殿に入ったようです！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:134
 msgid "In that case, we shall take them out!"
-msgstr "Dans ce cas nous les en ferons sortir!"
+msgstr "だとしたら、つまみ出すしかないな！"
 
 #. [message]: speaker=BL2
 #: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:138
 msgid "Enemies are here, protect the master!"
-msgstr "Des ennemis sont arrivés, protégez le maître!"
+msgstr "敵が来た、おカシラを守れ！"
 
 #. [message]: speaker=BL2
 #: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:150
 msgid "Master, we have failed you..."
-msgstr "Maître, nous avons failli..."
+msgstr "おカシラ、俺たち、ガッカリさせちまった..."
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:157
 msgid "Finally, we shall find out what this is all about."
-msgstr "Finalement, nous découvrirons les raisons de tout ceci."
+msgstr "ついに、何が起きてるのか見極めるときが来たな。"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:166
 msgid "They will have stolen everything by the time we get in!"
-msgstr "Ils auront tout pris d'ici à ce que nous puissions rentrer!"
+msgstr "私たちが入った頃には、彼らに全部盗まれてしまいます！"
 
 #. [scenario]: id=05_Sacrilege
 #: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:5
 msgid "Sacrilege"
-msgstr "Sacrilège"
+msgstr "冒涜"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:70
@@ -700,11 +682,10 @@ msgid ""
 "Advancing through these ruins, they felt a chill permeate them, as though a "
 "darkness was creeping through."
 msgstr ""
-"Ils entrèrent à l'intérieur du temple aussi rapidement que possible afin "
-"d'arrêter les ennemis restants.\n"
-"\n"
-"En avançant dans ces ruines, ils sentirent un froid s'imprégner, comme si "
-"les ténèbres les enveloppaient."
+"彼らは急いで神殿へと入っていきました、敵を封じ込めねばなりませんでした。\n"
+"\t\n"
+"廃墟を進んでいくと染み込むような冷気に襲われましたが、まるで闇が忍び寄ってく"
+"るかのようでした。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:75
@@ -712,35 +693,37 @@ msgid ""
 "Chapter Five\n"
 "<i>Sacrilege</i>"
 msgstr ""
-"Chapitre Cinq\n"
-"<i>Sacrilège</i>"
+"第5章\n"
+"<i>冒涜</i>"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:101
 msgid "Wait... You were conniving with the bandits raiding our villages!"
-msgstr "Quoi? Vous étiez complices avec les bandits pillant nos villages!"
+msgstr ""
+"ちょっと待て.. お前、アイツラが村を襲うところを、見て見ぬふりしていたのか！"
 
 #. [message]: speaker=BBM
 #: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:105
 msgid ""
 "You... You killed quite a few of my master's servants... How annoying..."
 msgstr ""
-"Vous… Vous avez tuez bien des servants de mon maître... Très désagréable..."
+"あんた... あんたは俺たちのカシラの手下をさんざん殺しまくったじゃないか... 癪"
+"に障るぜ..."
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:109
 msgid "What are you doing with these dark relics!"
-msgstr "Que pensez-vous faire avec ces reliques maléfiques!"
+msgstr "この暗黒の遺跡で何をしているの！"
 
 #. [message]: speaker=BBM
 #: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:113
 msgid "Taking them with me for the Crimson Duke has need of them."
-msgstr "Les prendre avec moi car le Duc Pourpre en a besoin."
+msgstr "Crimson Duke 様の所に持っていくのさ、必要だからな。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:117
 msgid "You shall do no such thing!"
-msgstr "Vous ne ferez pas une telle chose!"
+msgstr "そんなことはさせない！"
 
 #. [message]: speaker=BBM
 #: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:121
@@ -748,43 +731,42 @@ msgid ""
 "You have no way of stopping me, weakling. Now, do forgive me while I take my "
 "leave."
 msgstr ""
-"Vous n'avez aucune façon de m'arrêter, insectes. Maintenant, veuillez "
-"m'excuser de votre compagnie."
+"アンタには俺は止められない、この弱虫野郎め。ほら、俺がいなくなる間、許しを請"
+"いな。"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:125
 msgid "Return these to their place!"
-msgstr "Remettez-les à leur place!"
+msgstr "それを全部、元の場所に戻しなさい！"
 
 #. [message]: speaker=BBH
 #: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:138
 msgid "Aargh, the Light always hurts... Fools, try and catch me."
-msgstr ""
-"Aargh, la Lumière fait toujours mal... Imbéciles, essayez de m'arrêter."
+msgstr "うわぁ、光線は今日も目が痛いぜ... 間抜けども、俺を捕まえてみなよ。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:150
 msgid ""
 "That was Baron Luroc, a retainer of Duke Myrraent! We have to arrest him!"
 msgstr ""
-"C'était le baron Luroc, un vassal du duc Myrraent! Nous devons le capturer!"
+"あれは Myrraent 公爵の手下の Luroc 男爵じゃないか！彼を逮捕せねばならんぞ！"
 
 #. [scenario]: id=06_Shadows_Rise
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:5
 msgid "Shadows Rise"
-msgstr "L'ombre croît"
+msgstr "太陽は昇らず"
 
 #. [objective]: condition=win
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:22
 msgid "Hold until dawn"
-msgstr "Tines jusqu'à l'aube"
+msgstr "夜明けまで生き残る"
 
 #. [objectives]
 #. [objective]: condition=win
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:24
 #: knights_of_the_silver_spire\utils\misc.cfg:13
 msgid "Defeat all enemy leaders"
-msgstr "Vaincs tous les chefs ennemis"
+msgstr "すべての敵のリーダーを倒す"
 
 #. [side]
 #. [side]: id=HG, type=General
@@ -800,9 +782,8 @@ msgid ""
 "Though they tried, they failed to catch Baron Luroc within the temple and, "
 "once outside, found no trace of him."
 msgstr ""
-"Bien qu'ils essayèrent, ils échouèrent à capturer le baron Luroc à "
-"l'intérieur du temple et, une fois à l'extérieur, ne trouvèrent aucune trace "
-"de lui."
+"やってはみたものの、神殿内での Luroc 男爵の捕縛はかなわず、外に出てからも痕跡"
+"は見つけられませんでした。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:93
@@ -812,10 +793,9 @@ msgid ""
 "informing him of his vassal's conniving with bandits and plundering of "
 "forbidden artifacts."
 msgstr ""
-"Il n'y avait donc plus aucune option autre que pour les chevaliers de se "
-"diriger vers Farzi, un village dans le fief du duc Myrraent, le suzerain de "
-"Luroc, dans l'espoir de l'informer de la complicité de son vassal avec des "
-"bandits et de son vols d'artéfacts ténébreux."
+"かくして後がなくなった騎士団は、Luroc の宗主 Mirraent 公爵の領内の町 Farzi に"
+"足を向けて、公爵の家臣が山賊と結託して遺跡の工芸品を盗掘している事実を報告す"
+"ることに望みを託したのでした。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:96
@@ -823,8 +803,8 @@ msgid ""
 "Chapter Six\n"
 "<i>Shadows Rise</i>"
 msgstr ""
-"Chapitre Six\n"
-"<i>L'ombre croît</i>"
+"第6章\n"
+"<i>太陽は昇らず</i>"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:128
@@ -832,27 +812,25 @@ msgid ""
 "Hail, we are the Knights of the Silver Spire and we seek an audience with "
 "Duke Myrraent on a matter of utmost import."
 msgstr ""
-"Salut, nous sommes les Chevaliers de la Tour d'Argent et requérons une "
-"audience avec le duc Myrraent pour une affaire de la plus haute importance."
+"失礼します、私どもは銀の尖塔騎士団です。最重要の事項に関することで Mirraent "
+"公爵への謁見を希望しております。"
 
 #. [message]: speaker=SP
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:132
 msgid "I shall inform him, please come in."
-msgstr "Je vais l'informer de ce pas, vous pouvez entrer."
+msgstr "お伝えしましょう、お入りください。"
 
 #. [message]: speaker=BBH
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:166
 msgid "My lord Myrraent is not here, might I be of assistance?"
-msgstr "Monseigneur Myrraent n'est pas présent, puis-je vous être utile?"
+msgstr "領主 Myrraent 公は不在だが、私がお手伝いできることかな？"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:170
 msgid ""
 "Baron Loruc, traitor to the Crown! We have evidence of your crimes against "
 "the realm!"
-msgstr ""
-"Baron Luroc, traître à la couronne! Nous avons des preuves de vos crimes "
-"envers le royaume!"
+msgstr "Luroc 男爵、王家への裏切り者！この国に対するお前の犯罪の証拠がある！"
 
 #. [message]: speaker=BBH
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:174
@@ -860,8 +838,8 @@ msgid ""
 "I have no time to deal with righteous fools like you. You shall not be "
 "tolerated during our rise!"
 msgstr ""
-"Je n'au pas le temps de composer avec des fanatiques comme vous. Vous ne "
-"serez pas toléré lors de notre retour!"
+"お前たちのような根っからの愚か者の相手をしている暇は無い。私たちがいる限り"
+"は、お前たちを看過できない！"
 
 #. [modify_side]
 #. [side]
@@ -874,12 +852,12 @@ msgstr ""
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:59
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:53
 msgid "Vampires"
-msgstr "Vampires"
+msgstr "ヴァンパイア"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:219
 msgid "I shall enjoy turning you all. Now, let us end this charade."
-msgstr "J'apprécierai de vous corrompre tous. Finissons donc cette charade."
+msgstr "お前たち全員を変えてやる、楽しめそうだな。さあ、下手な芝居は終わりだ。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:223
@@ -887,18 +865,18 @@ msgid ""
 "Vampires! To battle, everyone! Protect the citizenry and hold until day that "
 "we might banish these corpses!"
 msgstr ""
-"Vampires! Aux armes, compagnons! Protégez les villageois et tenons jusqu'à "
-"l'aube afin de bannir ces morts-vivants!"
+"ヴァンパイアどもだぞ！皆、戦え！市民を守り、この骸骨どもを殲滅する日まで持ち"
+"こたえるんだ！"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:227
 msgid "Tis not for the rabble you should fear."
-msgstr "Ce n'est pas pour la vermine que vous devriez vous inquiéter."
+msgstr "市民たちの心配をしてる場合ではないだろうがな。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:294
 msgid "What have you done, you monster!"
-msgstr "Qu'avez-vous fait, monstre!"
+msgstr "一体、何をしたんだ、この怪物め！"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:298
@@ -906,13 +884,13 @@ msgid ""
 "They have been given a boon they did not deserve that they may better serve "
 "our Master."
 msgstr ""
-"Ils ont reçu un présent inespéré qu'ils ne méritaient pas afin de mieux "
-"servir notre Maître."
+"この者たちは、我が首領によりよく仕えるには値しなかった。その報いを受けたの"
+"だ。"
 
 #. [message]: speaker=unit
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:308
 msgid "This should stem the flow a little..."
-msgstr "Ceci devrait endiguer le flot un petit peu..."
+msgstr "これで少しは流れを押し留められるかも知れない..."
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:320
@@ -920,8 +898,8 @@ msgid ""
 "No, I will not fall here! You have no chance, the sun will not rise and my "
 "minions shall end you!"
 msgstr ""
-"Non, je ne tomberai pas ici! Vous n'avez aucune chance, le soleil ne se "
-"lèvera pas et mes servants vous tuerons!"
+"まだ、ここで倒れるわけにはいかぬ！お前たちに勝機はない！太陽は昇らぬ！我が軍"
+"勢がお前たちを終わらせる！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:324
@@ -929,18 +907,17 @@ msgid ""
 "His hordes are indeed numerous, prepare to withdraw and call upon aid from "
 "Dorest."
 msgstr ""
-"Ces hordes sont effectivement nombreuses. Préparons-nous à battre en "
-"retraite et à demander de l'aide de Dorest."
+"彼の大軍は確かに多いな、撤退の準備をして、Dorest からの応援を招集しよう。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:336
 msgid "It should be day by now and yet no sign of the sun..."
-msgstr "Il devrait déjà faire jour et pourtant aucun signe du soleil..."
+msgstr "もう昼になるはずなのに、まだ太陽の気配がないな..."
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:340
 msgid "I did not pilfer these artifacts without a reason."
-msgstr "Je n'ai pris ces artéfacts sans raison."
+msgstr "俺は、遺跡から理由もなく工芸品を盗んだわけではない。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:344
@@ -948,41 +925,41 @@ msgid ""
 "We are being swarmed and there is little room to maneuver... Fall back, we "
 "are at a disadvantage in this battle!"
 msgstr ""
-"Nous sommes attaqués de toute part et il y a peu d'espace pour manœuvrer… "
-"Battons en retraite, nous sommes à un désavantage lors de cette bataille!"
+"奴らがどんどん押し寄せてくる、これでは作戦遂行の余地はない... 後退だ、この戦"
+"いは劣勢に追いやられている！"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:365
 msgid "Good, another thrall for our forces."
-msgstr "Bien, un autre esclave pour nos forces."
+msgstr "いいぞ、また一人、我が軍隊に奴隷が増えたな。"
 
 #. [message]: speaker=unit
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:369
 msgid ""
 "I may fall but I am shielded by the Light, I shall never serve your kind!"
 msgstr ""
-"Je meurs peut-être mais je suis protégé par la Lumière, je ne servirai "
-"jamais votre espèce!"
+"俺はここで倒れるだろうが、”光”の守護を受けている。お前の種族に隷属することな"
+"ど決してない！"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:384
 msgid "Foolish zealots... We won't be able to turn them..."
-msgstr "Stupide zélotes… Nous ne pourrons pas les corrompre..."
+msgstr "アホなほどの狂信者どもだ...こいつらとは一生、敵同士だろうな..."
 
 #. [scenario]: id=07_Shore_Of_The_Avalynne
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:5
 msgid "Shore of the Avalynne"
-msgstr "Rive de l'Avalynne"
+msgstr "Avalynne の岸辺"
 
 #. [objective]: condition=win
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:26
 msgid "Kill as many enemies as possible before Vaedyr dies"
-msgstr "Tue autant d'ennemis que possible avant que Vaedyr ne meurs"
+msgstr "Vaedyr が死ぬ前に、できるだけ多くの敵を殺す"
 
 #. [objectives]
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:28
 msgid "Defeat an enemy leader"
-msgstr "Vaincs un chef ennemi"
+msgstr "敵のリーダーを倒す"
 
 #. [note]
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:31
@@ -990,8 +967,8 @@ msgid ""
 "Losses are irrelevant. The scenario ends when a leader (Vaedyr or an enemy) "
 "dies."
 msgstr ""
-"Les pertes sont sans conséquence. Le scénario se termine lorsqu'un chef "
-"(Vaedyr ou un ennemi) meurs."
+"味方のリーダー（Vaedyr ）か敵のリーダーの誰か1人が死んだ時点でシナリオは終了"
+"します。（いずれでもキャペーンは終了しません。）"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:93
@@ -999,17 +976,14 @@ msgid ""
 "The knights rode for a lightless day, heading southwest towards Dorest to "
 "warn of the threat, with the vampires hot on their trail."
 msgstr ""
-"Les chevaliers chevauchèrent pour un jour sans lumière, se dirigeant au sud-"
-"ouest vers Dorest pour avertir de la menace, avec des vampires les "
-"poursuivant de près."
+"騎士団は終日、光のないままに、脅威を知らせるため Dorest に向けて南西へと走り"
+"ました、ヴァンパイアの追撃を受けながら。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:96
 msgid ""
 "However, they encountered other enemies before the crossing of the Avalynne."
-msgstr ""
-"Cependant, ils rencontrèrent d'autres ennemis avant la traversée de "
-"l'Avalynne."
+msgstr "ところが、Avalynne を越える手前で、別の敵に遭遇してしまったのです。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:99
@@ -1017,13 +991,13 @@ msgid ""
 "Chapter Seven\n"
 "<i>Shore of the Avalynne</i>"
 msgstr ""
-"Chapitre Sept\n"
-"<i>Rive de l'Avalynne</i>"
+"第7章\n"
+"<i>Avalynne の岸辺</i>"
 
 #. [message]: speaker=CDH
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:116
 msgid "What have we here? Knights running away from someone?"
-msgstr "Qu'avons-nous ici? Des chevaliers fuyant quelqu'un?"
+msgstr "なんだ、どうなっているんだ？騎士団が誰かから逃げている...のか？"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:120
@@ -1032,9 +1006,9 @@ msgid ""
 "Dorest to warn of Baron Luroc's treachery but it seems this was unnecessary "
 "as you may assist us against him!"
 msgstr ""
-"Duc Myrraent, vous arrivez à un moment plus qu'opportun. Nous nous dirigions "
-"vers Dorest pour avertir de la traîtrise du baron Luroc mais il semble que "
-"cela ne soit pas nécessaire puisque vous pouvez nous aider contre lui!"
+"Myrraent 公爵、良い時にいらっしゃいました。Luroc 男爵の裏切りをお知らせするた"
+"めにDorest へ向かっていたところですが、その必要がなくなったようです...ご支援"
+"をお願いいたします！"
 
 #. [message]: speaker=CDH
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:124
@@ -1042,8 +1016,8 @@ msgid ""
 "That is a most serious accusation towards one of my vassals. Pray tell, what "
 "crime has he commited?"
 msgstr ""
-"Cette accusation envers un de mes vassaux est des plus sérieuse. Dites-moi "
-"donc, quel crime a-t-il commis?"
+"それは、我が家臣に対する非難として最たるものだ、聞き捨てならん。申してみよ、"
+"彼の罪状とは何だ？"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:128
@@ -1051,8 +1025,8 @@ msgid ""
 "Not only is he in leagues with the bandits led by the Crimson Duke who have "
 "ransacked multiple villages but he is also a vile vampire!"
 msgstr ""
-"Non seulement est-il allié aux bandits menés par le Duc Pourpre qui ont mis "
-"à sac plusieurs villages mais il est aussi un infâme vampire!"
+"彼の男爵は、複数の村を襲撃した Crimson Duke を筆頭とする山賊と結託しているば"
+"かりでなく、彼自身が堕落したヴァンパイアなのです！"
 
 #. [message]: speaker=CDH
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:132
@@ -1061,16 +1035,16 @@ msgid ""
 "kind... And they are so reluctant to obey their betters, unlike common "
 "bandits, right, Baron?"
 msgstr ""
-"Malheureusement, je dois décliner votre requête. Les chevaliers m'ont "
-"toujours embêté, chassant les mieux… Et ils sont toujours si peu disposés à "
-"obéir à des être supérieurs, contrairement aux bandits, n'est-ce pas, baron?"
+"あぁ、その申し出は断らねばならない。騎士団はいつでも私を退屈にさせてきた、我"
+"が一族を捕まえたりとか... あぁ、それに、上官に従いたがらない。まるで、山賊と"
+"は正反対だ、男爵、そうだろう？"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:152
 msgid "Indeed, sire. The highwaymen proved most amenable, unlike this rabble."
 msgstr ""
-"Effectivement, sir. Les brigands se sont montrés des plus serviables, "
-"contrairement à ces vauriens."
+"全くそのとおりです、閣下。辻強盗どもは大変に従順だと分かりました、この輩とは"
+"違って。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:156
@@ -1078,8 +1052,8 @@ msgid ""
 "You are the Crimson Duke? You have been organizing these bandit raids for "
 "months!"
 msgstr ""
-"Vous êtes le Duc Pourpre? Vous avez organisés ces attaques de bandits "
-"pendant des mois!"
+"お前が Crimson Duke だな？貴様が、この数ヶ月間、山賊の襲撃を組織していたの"
+"か！"
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:160
@@ -1087,9 +1061,8 @@ msgid ""
 "Indeed I have, that the kingdom might learn to fear my name. Now submit to "
 "superior beings else we shall feast on your blood!"
 msgstr ""
-"Effectivement c'était moi. Il fallait bien que le royaume apprenne à "
-"craindre mon nom. Maintenant soumettez-vous à des êtres supérieurs, sinon "
-"nous souperons avec votre sang!"
+"そのとおりだ。この王国は、我が名に対して恐れを抱くようになるだろう。さあ今す"
+"ぐに、この素晴らしき存在に服従するのだ、さもなくば、お前の血で饗宴だ！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:164
@@ -1098,29 +1071,25 @@ msgid ""
 "be fated to die but we shall not go quietly! Brothers, kill as many as you "
 "can, for Wesnoth and for the Light!"
 msgstr ""
-"Nous sommes les Chevaliers de la Tour d'Argent ne nous rendrons jamais au "
-"mal! Nous sommes peut-être destinés à mourir mais nous ne le ferons pas "
-"silencieusement! Compagnons, tuez-en autaunt que possible, pour Wesnoth et "
-"la Lumière!"
+"我々は銀の尖塔騎士団。決して悪に屈することは無い！ここで死ぬ運命であったとし"
+"ても、黙して死することなど断じて無い！兄弟たちよ、殺せるだけ殺せ、Wesnoth と"
+"光のために！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:205
 msgid "Fight on! Kill... more of... them..."
-msgstr "Continuez! Tuez… en… plus..."
+msgstr "戦い続けるのだ！もっと殺すんだ...もっと..."
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:227
 msgid "Foolish humans, they believed they could harm us... How laughable!"
 msgstr ""
-"Stupides humains, ils croyaient qu'ils pouvaient nous porter atteint… "
-"Risible!"
+"愚かな人間だ、我々に傷を負わせられると信じていた... なんと滑稽なことよ！"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:231
 msgid "What should we do with them sire, for they cannot be turned easily."
-msgstr ""
-"Que devrions-nous faire avec eux sire, car ils seront difficiles à "
-"transformer."
+msgstr "コイツら、どうしましょうか、簡単には寝返りませんよ。"
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:235
@@ -1128,51 +1097,51 @@ msgid ""
 "Kill those who remain then stay here and work on dispelling their "
 "protections. Hold the rear guard while I head to Dorest."
 msgstr ""
-"Tuez ceux qui respirent encore puis reste ici et occupes-toi de dissiper "
-"leurs protections. Tiens l'arrière-garde pendant que je me dirige vers "
-"Dorest."
+"残った奴らは全員殺してしまえ、それからここに残って奴らの守りを解くんだ。私は "
+"Dorest に向かうから、その間は後方の警護に当たれ。"
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:252
 msgid "You are... but... mortals, this is... impossible!"
-msgstr "Vous n'êtes… que des... mortels, ceci est... impossible!"
+msgstr "貴様... だが... 地獄に堕ち...こんなこと...あり得ぬ！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:256
 msgid "Now to his lackey!"
-msgstr "Maintenant son laquais!"
+msgstr "よし、次は手下の野郎どもだ！"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:260
 msgid "This cannot be happening, fall back to Farzi!"
-msgstr "Ceci ne peut arriver, fuyons vers Farzi!"
+msgstr "こんなこと、あり得ない。野郎ども、Farzi に逃げ込むぞ！"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:278
 msgid "How, you are but wretched humans!"
-msgstr "Comment, vous n'êtes que de misérables humains!"
+msgstr "なんとも、お前らは、ただ惨めなだけの人間なのさ！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:286
 msgid "Onwards, break them!"
-msgstr "En avant, brisez leur lignes!"
+msgstr "前進だ、すべて壊してしまえ！"
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:290
 msgid ""
 "We have not the strength to take Dorest without the artifact, fall back!"
 msgstr ""
-"Nous n'avons pas la force pour prendre Dorest sans l'artéfact, retraite!"
+"我々には、遺跡から盗掘した工芸品が無ければ Dorest を奪取するほどの力は無い、"
+"撤退しろ！"
 
 #. [scenario]: id=08a_Light_In_The_Dark
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:5
 msgid "Light in the Dark"
-msgstr "Lumière dans les ténèbres"
+msgstr "闇の中の光"
 
 #. [side]
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:32
 msgid "Merfolk"
-msgstr "Ondins"
+msgstr "マーフォーク"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:69
@@ -1180,8 +1149,8 @@ msgid ""
 "Though the knights had arrived first, they were not the only one that were "
 "heading at the Avalynne."
 msgstr ""
-"Bien que les chevaliers soient arrivés les premiers, ils n'étaient pas les "
-"seuls qui se dirigeaient vers l'Avalynne."
+"騎士団が先に到着したのですが、Avalynne へ向かっていたのは彼らだけではありませ"
+"んでした。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:72
@@ -1189,8 +1158,8 @@ msgid ""
 "Chapter Eight\n"
 "<i>Light In The Dark</i>"
 msgstr ""
-"Chapitre Huit\n"
-"<i>Lumière dans les ténèbres</i>"
+"第8章\n"
+"<i>闇の中の光</i>"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:91
@@ -1199,29 +1168,25 @@ msgid ""
 "did not truly believe I would find bloodsuckers at the end of the knight's "
 "trail."
 msgstr ""
-"Monstres… J'avais deviné ce que vous étiez lorsque nous passâmes Farzi mais "
-"je ne croyais pas réellement rencontrer des suceurs de sang à la fin de la "
-"piste des chevaliers."
+"怪物... この者たちの正体について、Farzi を通った時に想像はついたのですが、騎"
+"士団の追っている先に吸血動物たちがいるとは、全く信じられませんでした。"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:95
 msgid "Water scum... It seems your hopes were misplaced."
-msgstr ""
-"Racaille aquatique… Il semblerait que vos espoirs aient été mal placés."
+msgstr "水棲のカスどもめ... 見当違いだったようだな。"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:99
 msgid ""
 "I shall not let you desecrate their corpses and profane their souls! You "
 "will fall to the Light!"
-msgstr ""
-"Je ne vous laisserai pas profaner leurs corps et leurs âmes! Vous tomberez "
-"face à la Lumière!"
+msgstr "遺骨を冒涜し、魂を汚すことなど許されない！あなた達は光へ堕ちるのです！"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:103
 msgid "Fools, all of you..."
-msgstr "Idiots, tous autant que vous êtes..."
+msgstr "お前ら、みーんなアホだな。"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:107
@@ -1229,18 +1194,18 @@ msgid ""
 "Your fell spells occupy you. You will have no strength for battle and we "
 "shall destroy you!"
 msgstr ""
-"Vos sombres sorts vous occupe. Vous n'aurez pas de force pour un combat et "
-"nous vous anéantirons!"
+"あなたは自分自身の中を呪いで埋め尽くしてしまっている。戦闘するほどの強さは無"
+"いでしょうから、滅びゆくだけです！"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:119
 msgid "Impossible, we are superior!"
-msgstr "Impossible, nous sommes supérieurs!"
+msgstr "考えられぬ、我々に優るものはいないのだ！"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:126
 msgid "The darkness has receded, now let us banish its remains."
-msgstr "La noirceur s'estompe, maintenant que ses restes sois bannis."
+msgstr "暗黒の闇は去りました。さあ、残ったものも消し去りましょう。"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:135
@@ -1250,9 +1215,8 @@ msgid ""
 "who sacrificed themselves against your foes, that they may yet have a chance "
 "to save their people."
 msgstr ""
-"Je t'implore, ô bienveillante Lumière, accorde ta bénédiction à ces braves "
-"soldats qui se sont sacrifiés contre tes ennemis, qu'ils aient une chance de "
-"sauver les leurs."
+"大いなる光よ、お願いいたします、あなたの敵に身を挺した騎士団を祝福されんこと"
+"を... また彼らの民を救う機会を彼らに与えられんことを。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:157
@@ -1261,29 +1225,28 @@ msgid ""
 "i>) The <i>Crimson Duke</i> is probably heading for Dorest as we speak! We "
 "ride with all haste!"
 msgstr ""
-"Merci pour cet espoir, ils ne sera pas gâché! (<i>Aux autres chevaliers</"
-"i>)Le Duc Pourpre se dirige probablement vers Dorest à ce moment même! Nous "
-"chevauchons à totue vitesse!"
+"ありがとうございます、その祈願を無駄にはしません！（<i>騎士団に向かって </i> "
+"我々の想像通り、Crimson Duke はきっと Dorest に向かっている！先を急ごう！"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:161
 msgid "May you succeed in your quest!"
-msgstr "Puissiez-vous réussir dans votre quête!"
+msgstr "ご成功をお祈りします！"
 
 #. [message]: speaker=$this_item.id
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:169
 msgid "What miracle is this!"
-msgstr "Quel miracle vient-il d'arriver!"
+msgstr "これは、なんという奇跡！"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:178
 msgid "That should be enough, they will now rise with us!"
-msgstr "Ceci devrait être suffisant, ils se battront à nos côtés!"
+msgstr "これで十分だな、こいつらは、俺たちと一緒に蜂起するのだ！"
 
 #. [scenario]: id=08b_Soothing_Sight
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:5
 msgid "Soothing Sight"
-msgstr "Scène réconfortante"
+msgstr "癒しの情景"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:55
@@ -1293,10 +1256,10 @@ msgid ""
 "\n"
 "However, before they could depart, other allies appeared."
 msgstr ""
-"Après cette bataille âprement gagnée, les chevaliers se regroupèrent pour "
-"préparer la poursuite des survivants des vampires.\n"
+"この苦しい戦いに勝利し、騎士団はヴァンパイアの残党を追撃するため、体制の再編"
+"成を行いました。\n"
 "\n"
-"Cependant, avant qu'ils ne lancent la chasse, d'autres alliés apparurent."
+"ところが、彼らが出発する前に、別の友軍が姿を現したのでした。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:60
@@ -1304,8 +1267,8 @@ msgid ""
 "After all, though the knights had arrived first, they were not the only one "
 "that were heading upriver."
 msgstr ""
-"Après tout, bien que les chevaliers soient arrivés en premier, ils n'étaient "
-"pas les seuls à se diriger en amont."
+"というのも、騎士団が先に到着したのですが、上流へ向かっていたのは彼らだけでは"
+"なかったからです。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:63
@@ -1313,8 +1276,8 @@ msgid ""
 "Chapter Eight\n"
 "<i>Soothing Light</i>"
 msgstr ""
-"Chapitre Huit\n"
-"<i>Scène réconfortante</i>"
+"第8章\n"
+"<i>癒しの情景</i>"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:83
@@ -1322,8 +1285,8 @@ msgid ""
 "Dear knights, I am overjoyed to see you again. When we passed Farzi and saw "
 "signs of battle, I feared the worst."
 msgstr ""
-"Chers chevaliers, je suis ravie de vous revoir. Quand nous avions passé "
-"Farzi et que j'ai vu les signes de combat, j'ai craint le pire."
+"どうも、騎士団の皆さん、またお会いできましたね、嬉しい限りです。Farzi を通過"
+"した際に戦闘を目にしましたので、最悪の事態を恐れていたのです。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:87
@@ -1332,10 +1295,9 @@ msgid ""
 "for though we lost many, we routed the enemy. However, I fear not enough of "
 "us are left for the next battle."
 msgstr ""
-"Je vous remercie pour vos préoccupations, belle dame. Heureusement elles "
-"furent superflues car bien que nous ayons perdu beaucoup des nôtres, nous "
-"avons mis l'ennemi en déroute. Cependant, j'ai bien peur que ces pertes "
-"soient trop élevées..."
+"ご心配いただき感謝いたします、祭司殿。幸運にも杞憂となりましたが、多くの仲間"
+"を失いました、撃退はしたのですが。それで、これからの戦いに向けて、十分な戦力"
+"が残っているか心配しています。"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:91
@@ -1343,9 +1305,8 @@ msgid ""
 "Left alone, the vampires would still pose a grave threat to all within the "
 "North, and the Light shall not allow this to be so."
 msgstr ""
-"Laissés à eux-mêmes, les vampires poseraient encore un péril majeur pour "
-"tous ceux vivant dans le Nord et la Lumière ne permettra pas qu'un tel "
-"danger existe."
+"何もしないとしても、ヴァンパイアたちは北部全域に対して重大な脅威を与えようと"
+"するでしょうが、そうすれば、\"光\"がその状況を許さないことでしょう。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:113
@@ -1353,19 +1314,20 @@ msgid ""
 "Unbelievable! Thank you from the bottom of our hearts, o Lady of Light, for "
 "with this boon, we have a chance of ridding the land of these abominations."
 msgstr ""
-"Incroyable! Nous vous remercions du fond du cœur, ô dame de la Lumière, car "
-"avec cette bénédiction nous pourrons débarrasser cette terre de ces "
-"abominations."
+"なんとも信じられない！心から感謝いたします、光の貴婦人よ。恩恵により、我々は"
+"この忌まわしき者をこの地から撲滅する機会が持てます。"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:117
 msgid "Let it be so. Pray tell, where are their remnants headed?"
-msgstr "Qu'il en soit ainsi. Vers où vont-ils?"
+msgstr ""
+"そうなることでしょう。教えてください、残った者たちはどこに向かっているので"
+"しょう？"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:128
 msgid "The Bloody Baron headed northeast, towards Farzi."
-msgstr "Le Baron Sanglant s'est dirigé vers le nord-est, vers Farzi."
+msgstr "あの、血の男爵は北東へ向かいました、Farzi です。"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:132
@@ -1373,14 +1335,13 @@ msgid ""
 "I had left some of my party there, if we hurry we may yet catch them before "
 "they reach their fortress!"
 msgstr ""
-"J'avais laissé certaines de mes troupes là-bas, si nous nous dépêchons nous "
-"pourrions les prendre à revers!"
+"私の仲間の数名をそこに残してきました、急いで行けば、彼らが要塞に着く前に追い"
+"つけるかもしれません！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:147
 msgid "The Crimson Duke headed west, towards the Greenwood."
-msgstr ""
-"Le Duc Pourpre se dirigea vers l'ouest, dans la direction de la Forêt Verte."
+msgstr "Crimson Duke は西へ向かいました、Greenwood です。"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:151
@@ -1388,19 +1349,19 @@ msgid ""
 "Take care, for those who hide within are no friends to other races. Nor are "
 "they even to their own."
 msgstr ""
-"Faites attention, car ceux qui y vivent ne sont les amis de personne, pas "
-"même des autres elfes."
+"気を付けてください、あの中に潜むのは他種族の者たちで、私たちと友人関係にはあ"
+"りません。他の種族とですら友好関係にないのです。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:155
 msgid "I thank you for your warning, I shall take it to heart. Farewell!"
 msgstr ""
-"Je vous remercie pour votre avertissement, il sera pris à cœur. Au revoir!"
+"ご忠告いただき感謝します、心に留めて十分に注意します。では、失礼します！"
 
 #. [scenario]: id=09a_Dawn_over_Dorest
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:5
 msgid "Dawn over Dorest"
-msgstr "Aube à Dorest"
+msgstr "Dorest の夜明け"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:99
@@ -1408,17 +1369,15 @@ msgid ""
 "The knights sped with all haste towards Dorest, that they might stop the "
 "Crimson Duke's evil designs from taking form."
 msgstr ""
-"Les chevaliers galopèrent à toute allure vers Dorest afin de mettre un terme "
-"aux maléfiques desseins du Duc Pourpre."
+"騎士団は大急ぎで Dorest へと向かいました。Crimson Duke の邪悪な計画が実現され"
+"るのを阻止せねばならないのです。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:102
 msgid ""
 "This was a pressing task for the battle was already fierce in front of the "
 "city's walls."
-msgstr ""
-"C'était une tâche pressante car la battaile faisait déjà rage devant les "
-"murs de la ville."
+msgstr "城壁の前では既に戦闘が激化していて、この任務は急を要していました。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:105
@@ -1426,18 +1385,18 @@ msgid ""
 "Chapter Nine\n"
 "<i>Dawn over Dorest</i>"
 msgstr ""
-"Chapitre Neuf\n"
-"<i>Aube à Dorest</i>"
+"第9章\n"
+"<i>Dorest の夜明け</i>"
 
 #. [message]: speaker=HG
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:127
 msgid "Nooo... The city..."
-msgstr "Noon... La ville..."
+msgstr "ウゥ... 街が..."
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:131
 msgid "Finally, this futile resistance is over."
-msgstr "Finalement, cette futile résistance n'a plus court."
+msgstr "とうとう、その無駄な抵抗も終わりだな。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:135
@@ -1445,13 +1404,13 @@ msgid ""
 "The city is lost and without it, the North is cut off from Wesnoth, we have "
 "failed!"
 msgstr ""
-"La ville est perdue et sans elle, le Nord est coupé de Wesnoth, nous avons "
-"failli!"
+"街が失われ、これでは北部一体の国土は Wesnoth から切り取られてしまう、我々は敗"
+"けたのだ！"
 
 #. [label]
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:149
 msgid "Silver Spire"
-msgstr "Tour d'Argent"
+msgstr "銀の尖塔"
 
 #. [message]: speaker=HG
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:155
@@ -1459,8 +1418,8 @@ msgid ""
 "Who are you, accursed monster, and why do you trouble our fair city? ..."
 "Wait ...Duke Myrraent, is that you?"
 msgstr ""
-"Qui êtes-vous, monstre, et pourquoi attaquez-vous notre cité?... Une "
-"seconde… Duc Myrraent, est-ce vous?"
+"誰だ、呪われし怪物め、なぜこの美しい街を乱すのだ？ ...待て... Myrraent 公爵、"
+"あなたなのですか？"
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:159
@@ -1468,17 +1427,15 @@ msgid ""
 "I have thrown away that fake mask. I am the Crimson Duke and you shall all "
 "fall at my feet! Now, despair!"
 msgstr ""
-"J'ai rejeté ce faux nom. Je suis le Duc Pourpre et vous tomberez tous à mes "
-"pieds!"
+"私はその、偽りの仮面を脱ぎ捨てた。私は Crimson Duke であり、お前たちは私の前"
+"に屈するのだ！さあ、諦めるのだ！"
 
 #. [message]: speaker=HG
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:163
 msgid ""
 "You stand against the kingdom of Wesnoth and have no hope of victory on this "
 "day!"
-msgstr ""
-"Vous vous dressez contre le royaume de Wesnoth et n'avez aucune chance de "
-"triompher!"
+msgstr "Wesnoth 王国と敵対すれば、今日、勝利の望みは無い！"
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:167
@@ -1486,25 +1443,25 @@ msgid ""
 "I do not recognize the authority of your pitiful king! You shall all bow "
 "down to me!"
 msgstr ""
-"Je ne reconnais pas l'autorité de votre minable roi! Vous vous inclinerez "
-"tous devant moI!"
+"お前のように惨めな王の権威など、私は全く認めない！さあ、俺の前にひれ伏すの"
+"だ！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:171
 msgid "Your dark crusade ends here, Crimson Duke!"
-msgstr "Votre sombre croisade s'arrête aujourd'hui, Duc Pourpre!"
+msgstr "お前の暗黒の聖戦は、ここまでだ、Crimson Duke ！"
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:175
 msgid "The Knights of the Silver Spire... Did I not slay you all?"
-msgstr "Les Chevaliers de la Tour d'Argent… Ne vous avais-je pas tous tués?"
+msgstr "銀の戦闘騎士団か...この俺が貴様らを殺さなかっただと？"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:179
 msgid ""
 "The Light does not falter. Your servant is dead and so shall you soon be!"
 msgstr ""
-"La Lumière ne fléchit pas. Votre servant est mort et vous le serez bientôt!"
+"光は弱まることはない。お前の手下たちは死んだぞ、お前も後を追うことだろう！"
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:183
@@ -1512,23 +1469,23 @@ msgid ""
 "Go ahead and try, little whelps. The night will soon return and, when it "
 "does, you will all die..."
 msgstr ""
-"Essayez si vous pouvez. La nuit arrivera bientôt et quand elle sera de "
-"retour, vous mourrez tous..."
+"やってみるがいい、小僧ども。夜はすぐに戻ってくるだろう、そしてその時、お前た"
+"ちは死ぬのだ..."
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:195
 msgid "Impossible, deafeated by these wretches!"
-msgstr "Impossible, vaincu par des misérables humains!"
+msgstr "まさか... こんな嫌な奴らに殺られるとは！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:199
 msgid "Face the wrath of the Light!"
-msgstr "Souffrez la fureur de la Lumière!"
+msgstr "光の怒りに触れろ！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:211
 msgid "He shall haunt this land no longer."
-msgstr "Il ne hantera plus cette terre."
+msgstr "アイツはもうこの地には出没いたしません。"
 
 #. [message]: speaker=HG
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:215
@@ -1536,30 +1493,28 @@ msgid ""
 "You have our utmost gratitude, oh Knights of the Silver Spire, for you have "
 "saved the Northlands and, perhaps, the realm itself from a dark fate."
 msgstr ""
-"Vous avez notre extrême gratitude, ô Chevaliers de la Tour d'Argent, car "
-"vous avez sauvé le Nord et peut-être même le royaume lui-même d'une sombre "
-"destinée."
+"最大限の謝意を表するよ、銀の尖塔騎士団。暗黒の命運から、この Northlands を、"
+"いや、おそらくこの国土そのものを守ってくれたのだ。"
 
 #. [message]: speaker=unit
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:232
 msgid "How, we slew you!"
-msgstr "Comment, nous vous avons tué!"
+msgstr "なんと、俺たちがお前を殺した！"
 
 #. [message]: speaker=second_unit
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:236
 msgid "Begone, foul corpse!"
-msgstr "Disparaissez, infâme cadavre!"
+msgstr "立ち去れ、不潔な死体め！"
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:246
 msgid "With the night on my side I am unstoppable! You have no chance!"
-msgstr ""
-"Avec la nuit à mes côtés je suis invincible! Vous n'avez aucune chance!"
+msgstr "夜が我々に味方する、こうなれば私は無敵だ! お前たちに勝機はない！"
 
 #. [scenario]: id=09b_Alight_From_All_Sides
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:5
 msgid "Alight From All Sides"
-msgstr "Attaqués de toute part"
+msgstr "八方塞がり"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:83
@@ -1570,11 +1525,11 @@ msgid ""
 "They hoped to weather the storm headed their way within the walls of the "
 "fortified isle."
 msgstr ""
-"Les vampires avaient subit un revers dévastateur avec la perte de leur chef "
-"et étaient maintenant en fuite, courant vers leur repaire à Farzi.\n"
+"ヴァンパイアの一行はリーダーを失った上に壊滅的な打撃を受けて、Farzi の隠れ家"
+"に向けて逃亡中でした。\n"
 "\n"
-"Ils espéraient survivre aux forces dirigées vers eux derrière les murs de "
-"leur île fortifiée."
+"彼らは、要塞化された島の壁に潜んで、来るべき嵐を乗り切れると期待していまし"
+"た。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:88
@@ -1582,9 +1537,8 @@ msgid ""
 "They, however, had not expected merfolk to hold them back and keep them from "
 "reaching their haven until the knights arrived to finish them off."
 msgstr ""
-"Ils ne s'attendaient cependant pas à des odins les retenant et les empêchant "
-"de rejoindre leur refuge avant que les chevaliers n'arrivent pour les "
-"exterminer."
+"ところが、まさかマーフォークが彼らの行く手を阻み、追手の騎士団が到着するまで"
+"の間、自分たちの避難所への退路が断とうとするなどとは思ってもいませんでした。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:91
@@ -1592,29 +1546,29 @@ msgid ""
 "Chapter Nine\n"
 "<i>Alight From All Sides</i>"
 msgstr ""
-"Chapitre Neuf\n"
-"<i>Attaqués de toute part</i>"
+"第9章\n"
+"<i>八方塞がり</i>"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:110
 msgid "Hurry and kill this vermin! We need to reach the island!"
-msgstr "Dépêchez et tuez cette vermine! Nous devons rejoindre l'île!"
+msgstr "この害虫をさっさと殺せ！俺たちは、島まで辿り着かなきゃならんのだ！"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:114
 msgid ""
 "You will not reach safety, vampire. All that awaits you is a final death."
 msgstr ""
-"Vous n'atteindrez pas la sûreté, vampire. Tout ce qui vous attend est une "
-"dernière mort."
+"あなたたちにはもう安全な場所などありません、ヴァンパイア。待ち受けるのは、死"
+"のみです。"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:118
 msgid ""
 "Foolish mermaid, you face beings far older than you. You are not feared here."
 msgstr ""
-"Stupide sirène, vous faites face à des êtres bien plus anciens que vous. Nul "
-"n'a peur de vous ici."
+"愚かなマーメイドだな、お前は自分より遥かに老獪な生き物に対峙しているのだ。お"
+"前らを恐れるものなどいないのだ。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:122
@@ -1622,18 +1576,18 @@ msgid ""
 "Fear is irrelevant, today you will be eradicated. We, the knights of the "
 "Silver Spire, swear so!"
 msgstr ""
-"La peur est sans importance, aujourd'hui vous serez éradicés. Nous, les "
-"Chevaliers de la Tour d'Argent, le jurons!"
+"恐怖とは無関係だ、今日、お前たちは根絶される。我々銀の尖塔騎士団が誓って言"
+"う！"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:126
 msgid "Human scum! Kill them all!"
-msgstr "Racaille humaine! Massacrez-les tous!"
+msgstr "人間のクズども！野郎ども、皆殺しにしろ！"
 
 #. [message]: speaker=BB
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:138
 msgid "No... Impossible... Not against wretches like you..."
-msgstr "Non... Impossible.. Pas contre des vermines comme vous..."
+msgstr "ダメだ... 無理だ... お前らのような惨めな奴に歯向かうなんて..."
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:149
@@ -1642,9 +1596,9 @@ msgid ""
 "The world will be better off without them. I must thank you for your "
 "inestimable assistance against them."
 msgstr ""
-"Il est mort, nous n'avons plus qu'à tuer les vestiges de son odieux genre. "
-"Le monde sera meilleur sans eux. Je dois vous remercier pour votre "
-"inestimable assistance contre eux."
+"あいつは死んだ、我々は、あいつの卑劣な一族の最後の残党を片付けるだけでよい。"
+"彼らがいなければ、この世界はよりよいものになるだろう。あなたのこの上もない支"
+"援には感謝しきれません。"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:153
@@ -1652,8 +1606,8 @@ msgid ""
 "No thanks are necessary, for though he threatened humans now, we would soon "
 "have been at risk."
 msgstr ""
-"Aucun remerciement n'est nécessaire car, bien qu'ils aient surtout menacés "
-"des humains, tous auraient été à risque."
+"感謝など不要です。彼は今回、人間を脅かしましたが、すぐに私たちも危険に晒され"
+"たことでしょう。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:157
@@ -1661,30 +1615,30 @@ msgid ""
 "Well then, I shall have to report this to the lords in Dorest. May we meet "
 "again!"
 msgstr ""
-"Je vais relater les évènements aux seigneurs de Dorest. Puissions-nous nous "
-"rencontrer à nouveau!"
+"では、私はこの件を Dorest の領主に報告しなければなりませんので、失礼します。"
+"またお会いできますように！"
 
 #. [message]: speaker=MP
 #: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:161
 msgid "The same to you!"
-msgstr "De même pour vous!"
+msgstr "こちらこそ、また！"
 
 #. [scenario]: id=09c_Death_Amongst_The_Trees
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:5
 msgid "Death Amongst The Trees"
-msgstr "Mort parmi les arbres"
+msgstr "木立の中で死す"
 
 #. [objective]: condition=win
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:22
 msgid "Death of the Crimson Duke"
-msgstr "Mort du Duc Pourpre"
+msgstr "Crimson Duke の死"
 
 #. [side]: id=EL, type=Elvish High Lord
 #. [side]: id=ES, type=Elvish Sylph
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:67
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:83
 msgid "Elves"
-msgstr "Elfes"
+msgstr "エルフ"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:104
@@ -1693,9 +1647,8 @@ msgid ""
 "artifact that had been casting a shadow over the battlefield, the "
 "nightborn's plans were shattered and they had no choice but to retreat."
 msgstr ""
-"Avec la mort du Baron Sanglant et la destruction de l'obscur artifact qui "
-"jetait une ombre sur le champ de bataille , les plans des vampires ont volé "
-"en éclats et ils n'eurent d'autre choix que la retraite."
+"血の男爵が死に、戦場に影を引き込んでいた暗黒の工芸品が破壊されたことで、ナイ"
+"トボーンの計画も打ち砕かれて、撤退を余儀なくされました。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:107
@@ -1703,8 +1656,8 @@ msgid ""
 "They fled west, towards the Greenwood, without thinking of the cruel beings "
 "who dwelled there."
 msgstr ""
-"Ils fuirent vers l'ouest et la Forêt Verte sans penser aux êtres cruels y "
-"vivant."
+"彼らは、Greenwood を目指して、西へと逃亡しました。もちろん、そこに住む残忍な"
+"生き物のことなど考えもしませんでした。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:110
@@ -1712,18 +1665,19 @@ msgid ""
 "Chapter Nine\n"
 "<i>Death Amongst The Trees</i>"
 msgstr ""
-"Chapitre Neuf\n"
-"<i>Mort parmi les arbres</i>"
+"第9章\n"
+"<i>木立の中で死す</i>"
 
 #. [message]: speaker=EL
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:129
 msgid "Fell being, pray tell, what do you seek in these woods but death?"
-msgstr "Sombre être, dites, que cherchez-vous dans ces bois à part votre mort?"
+msgstr ""
+"堕ちた生き物よ、言ってみろ。この森に望むものは何なのだ、死以外にあるのか？"
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:133
 msgid "Nothing from you, foolish elf."
-msgstr "Rien de vous, bête elfe."
+msgstr "お前から得るものなど無い、愚かなエルフだ。"
 
 #. [message]: speaker=ES
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:137
@@ -1731,8 +1685,8 @@ msgid ""
 "You have stepped within our forest, abomination that was once a man, and for "
 "that you shall die."
 msgstr ""
-"Vous êtes entré dans notre forêt, abomination qui fut un homme, et pour cela "
-"vous mourrez."
+"あなたは、私たちの森に入り込みましたね、かつて人間だった忌まわしい者よ。それ"
+"故に、あなたは死ぬのです。"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:141
@@ -1740,28 +1694,28 @@ msgid ""
 "Already making new enemies... dear Crimson Duke, perhaps that will be your "
 "end."
 msgstr ""
-"Déjà en train de se faire de nouveaux ennemis… cher Duc Pourpre, peut-être "
-"que cela sera la raison de votre fin."
+"既に新たな敵を作っている...やあ Crimson Duke 、おそらくそれがお前の終焉を意味"
+"するだろう。"
 
 #. [message]: speaker=EL
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:145
 msgid "Humans here! More fools to kill I see..."
-msgstr "Des humains ici! Je vois, plus de sots à tuer..."
+msgstr "ここにも人間が！この愚か者も殺さねばならないな..."
 
 #. [message]: speaker=ES
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:149
 msgid "Let us first handle the monsters, then we shall focus on the beasts."
-msgstr "Occupons-nous d'abord des monstres, après des bêtes."
+msgstr "先ずは怪物どもを片付けましょう、それから獣たちの相手をしましょう。"
 
 #. [message]: speaker=CD
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:161
 msgid "No! We were destined for more than this!"
-msgstr "Non! Nous étions destinés pour plus!"
+msgstr "ノー！我々は、ここで終わるような運命の存在ではないのだ！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:171
 msgid "I thank you for the slaying of this monster."
-msgstr "Je vous remercie pour la mort de ce monstre."
+msgstr "この怪物を退治していただき感謝します。"
 
 #. [message]: speaker=ES
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:175
@@ -1769,9 +1723,9 @@ msgid ""
 "Do not dare speak to me, animal! We rejected your kind and for that were "
 "banished! Now you intrude upon our domain and for that you shall pay!"
 msgstr ""
-"N'osez pas me parler, animal! ous avons rejeté les vôtres et pour cela "
-"furent bannis! Maintenant vous envahissez notre domaine et pour cela vous "
-"payerez!"
+"私に話しかけるとは生意気だ、この動物め！私たちは、お前と同じ種族を拒絶した"
+"が、そのために追放されたのだ！今、お前たちは私たちの領内に侵入している、それ"
+"故にその代償を払ってもらう！"
 
 #. [message]: speaker=MC
 #: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:179
@@ -1779,13 +1733,13 @@ msgid ""
 "I am sorry for this state of affair but I have no desire for battle when it "
 "is unneeded. (<i>To the knights</i>) Fall back, we retreat!"
 msgstr ""
-"Je suis désolé pour l'état des choses mais n'ai aucun désir pour une "
-"bataille inutile. (<i>Aux chevaliers</i>) Retraite!"
+"このような情勢となり残念ではあるけれど、不必要な戦いは望んでいない。（<i>騎士"
+"たちに向かって </i>）退却するぞ、撤退だ！"
 
 #. [scenario]: id=10_Epilogue
 #: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:5
 msgid "Epilogue"
-msgstr "Épilogue"
+msgstr "エピローグ"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:58
@@ -1809,24 +1763,21 @@ msgid ""
 "elven hearts, that perhaps their hatred was unwarranted and that there could "
 "be a better way."
 msgstr ""
-"Dans la Forêt Verte, à l'ombre des arbres, la bataille à trois se termina "
-"par la fin des vampires, leur Duc Pourpre mort comme s'il avait été percé "
-"par la lumière, celle-là même qu'il avait tenté de dissiper. Tout ce qu'il "
-"restait de lui un corps au sol, plus que de la nourriture pour des vers de "
-"terre.\n"
+"Greenwood の木々の影の間で起こった三つ巴の戦いは、ヴァンパイアたちの死によっ"
+"て終焉を迎えました。Crimson Duke は、吹き散らそうとした光によって、逆に貫通さ"
+"れたかのように倒れ、後には地面に落ちた亡骸だけが残り、それは虫の餌となり、も"
+"はや誰に迷惑を掛けることもない状況となりました。\n"
 "\n"
-"Maintenant les elfes faisaient face à d'autres ennemis car, bien que peu "
-"respirent encore qui avaient vécu leur exil, leur haine des humains était "
-"encore profonde.\n"
+"かつての内戦と追放から200年近くが経ち、当時から生存しているものは殆どいません"
+"が、エルフの人間に対する憎しみは、まだまだ根深いものがありました。\n"
 "\n"
-"Cependant, ce jour n'était pas le jour de la revanche car les humains "
-"partirent aussi vite que possible, ne voyant pas de raison de combattre une "
-"bataille inutile.\n"
+"しかし今日は、その決着をつける日ではありませんでした。人間の侵入者たちは、自"
+"分たちが望まない戦いをする理由などないからと、早々に撤退したのです。\n"
 "\n"
-"En ce jour, les Chevaliers de la Tour d'Argent évitèrent un combat contre "
-"d'autres êtres vivants et plantèrent peut-être même le germe d'un doute dans "
-"ces cœurs glacés d'elfes, que peut-être cette haine était sans fondement et "
-"qu'il existait une autre voie, une meilleure voie."
+"この日、銀の尖塔騎士団は、生き物との戦いを避けました。おそらく、凍りついたエ"
+"ルフの心に、むしろ一つの疑いの種を蒔いたのです。もしかするとエルフ自身の憎し"
+"みには根拠がなく、また、もっとよりよく生きる方法があるのではないかというもの"
+"です。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:74
@@ -1842,17 +1793,16 @@ msgid ""
 "the night before, as if to confirm their dark dream's final death and the "
 "return of peace to the realm."
 msgstr ""
-"Des ténèbres un rayon de pure lumière surgit, perçant le cœur du vampire et "
-"brisant son maléfique artéfact.\n"
+"闇の中で一筋の純粋な光がほとばしり、ヴァンパイアの心臓を貫き、堕ちた工芸品は"
+"破壊されました。\n"
 "\n"
-"Alors que l'infâme monstre tombait, empalé sur une lance d'argent, un unique "
-"rayon de soleil brilla sur lui, brisant son sombre sort et libérant l'aube "
-"dans toute son ardente gloire alors qu'elle reprenait sa place dans le "
-"monde.\n"
+"銀色の槍が刺さったまま崩れ落ちて一筋の太陽光が彼を照らし、その邪悪な呪いが解"
+"けると、夜明けの輝きが増して、物事の秩序における自分の位置を取り戻しまし"
+"た。\n"
 "\n"
-"Ainsi disparut le dernier chef des vampires tout comme son seigneur la nuit "
-"d'avant, tout comme la mort finale de leur sinistre rêve et le retour de la "
-"paix dans le royaume."
+"そうして、ヴァンパイアたちの最後の指導者は、昨夜の彼らの首領と同じように姿を"
+"消しました。それはまるで、彼らの暗い夢の終わりと、この地の平和の復活を確かめ"
+"るかのようでした。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:89
@@ -1868,16 +1818,14 @@ msgid ""
 "of the Silver Spire above all, for all had seen their valor upon the field "
 "of battle."
 msgstr ""
-"Devant les murs de Dorest un grand combat se finit. Le duel entre le "
-"chevalier et le vampire était fini avec l'aspirant conquérant détruit par "
-"une fureur vertueuse, ses hordes passées à l'épée et exterminées.\n"
+"Dorest の城壁の前で、大きな衝突が終わりました。騎士とヴァンパイアの決闘は正義"
+"の怒りによって、征服者となるはずの者を打ち倒し、その大軍を駆逐したのです。\n"
 "\n"
-"Sa mort apporta un soulagement à chaque âme, car le Nord était maintenant "
-"libéré de cette grave menace.\n"
+"ヴァンパイアの死は全ての魂に安堵をもたらし、北部一帯は今や重大な脅威から解放"
+"されたのです。\n"
 "\n"
-"Les victorieux défenseurs furent célébrés pour leur courage, avec les "
-"Chevaliers de la Tour d'Argent au premier plan car tous avaient contemplé "
-"leur bravoure sur le champ de bataille."
+"勝利した防衛隊はその勇気を称えられ、特に銀の尖塔騎士団は、戦場でその勇気を広"
+"く知らしめたのです。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:100
@@ -1890,13 +1838,12 @@ msgid ""
 "afterwards, continuing to act much as they had before, protecting whomever "
 "they could."
 msgstr ""
-"Vaedyr et ses chevaliers relatèrent les évènements à la noblesse de Dorest, "
-"la trahison du duc Myrraent et sa vraie identité en tant que Duc Pourpre, "
-"vampire et aspirant conquérant du Nord.\n"
+"Vaedyr とその騎士たちは、Dorest の諸侯に起こった出来事や Myrraent 公爵の裏切"
+"りとその正体 Crimson Duke とヴァンパイアについて、更には、北部の征服者となる"
+"べき者を報告しました。\n"
 "\n"
-"Ils furent bien récompensés pour leurs actions et menèrent des vies "
-"virtueuses, continuant à agir comme avant, protégeant tout ceux qu'ils "
-"pouvaient."
+"彼らはその行為に対して正当な報酬を受け、その後も徳の高い生活を送り、以前と変"
+"わらぬ働きを続けて、守れる者は誰でも守り続けたのでした。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:105
@@ -1908,13 +1855,12 @@ msgid ""
 "Vaedyr and his men oft visited their shores, reminiscing of battles past and "
 "assisting whenever the merfolk's diviners foresaw danger."
 msgstr ""
-"Dame Ariel et les ondins profitèrent d'années paisibles après le conflit "
-"sans être atteints par d'autres menaces et bénéficiant de le nouveau renom "
-"ainsi que du commerce lucratif avec les humains.\n"
+"Lady Ariel とマーフォークの一行はこの事件の後、永らく平和を享受し、陸上からの"
+"脅威に悩まされることなく、人間との有益な貿易という形で新たに得た名声の恩恵を"
+"享受しました。\n"
 "\n"
-"Vaedyr et ses hommes visitaient souvent leur rive, se remémorant les "
-"batailles passées et portant assistance lorsque les oracles ondins "
-"prédisaient des dangers."
+"Vaedyrと仲間たちは、しばしば彼女たちの海岸を訪れ、過去の戦いを回想し、マー"
+"フォークの占い師が危険を察知するたびに支援を行いました。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:110
@@ -1927,12 +1873,11 @@ msgid ""
 "fondly remembered and soon passed into legend and, like all such tales, were "
 "embellished over time."
 msgstr ""
-"Par la bravoure des Chevaliers de la Tour d'Argent le Nord, voire tout le "
-"continent, furent sauvés des déprédations de la menace vampire.\n"
+"銀の尖塔騎士団の勇気によって、北部、そしておそらく大陸全体が、ヴァンパイアの"
+"脅威から救われたと言えます。\n"
 "\n"
-"Bien que cela ne sauva pas ces terres des prochaines tourmentes, leurs "
-"exploits étaient chaudement remémorés et devinrent rapidement une légende, "
-"qui, comme n'importe quelle autre histoire, fut embellie au fil du temps."
+"彼らの功績は人々の記憶に残って、やがて伝説となり、他の物語と同様、やがて様々"
+"に脚色されていきました。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:123
@@ -1949,17 +1894,15 @@ msgid ""
 "For before her now stood the entire order, alive and armed, raring to fight "
 "once more."
 msgstr ""
-"Bientôt, les chansons dans les tavernes et fables autour du feu avaient "
-"oublié le rôle des elfes exilés et cette histoire n'en devint qu'une des "
-"péripéties des Chevaliers de la Tour d'Argent, de leur résistance désespérée "
-"sur les rives de l'Avalynne contre le Duc Pourpre.\n"
+"やがて、居酒屋の歌や暖炉のまわりで語られる話では、追放されたエルフ族の役割に"
+"関する部分は忘れ去られて、銀の尖塔騎士団の苦難や、Crimson Duke との Avalynne "
+"海岸での決死の戦いの物語だけとなりました。\n"
 "\n"
-"Ce récit relatait comment, alors qu'ils avaient été tués jusqu'au dernier, "
-"une dame de lumière émergea de l'eau et pleura sur leur sort, causant un "
-"miracle.\n"
+"その物語によれば、彼らが一見、殺されてしまった後に光の乙女が水面から現れ、彼"
+"らの運命に嘆いたことで真の奇跡が起きたそうです。\n"
 "\n"
-"Car devant elle se tenait l'ordre au complet, vivant et vaillant, prêt au "
-"combat à nouveau."
+"彼女の前には騎士団全員が生きていて、武装し、もう一度戦う気概に溢れていたので"
+"す。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:137
@@ -1976,17 +1919,15 @@ msgid ""
 "For before her now stood the entire order, alive and armed, raring to fight "
 "once more."
 msgstr ""
-"Bientôt, les chansons dans les tavernes et fables autour du feu avaient "
-"oublié la fuite du Baron Sanglant et cette histoire n'en devint qu'une des "
-"péripéties des Chevaliers de la Tour d'Argent, de leur résistance désespérée "
-"sur les rives de l'Avalynne contre le Duc Pourpre.\n"
+"やがて、居酒屋の歌や暖炉のまわりで語られる話では、血の男爵の戦闘は忘れ去られ"
+"て、銀尖塔騎士団の苦難の物語、Crimson Duke との Avalynne 海岸での決死の戦いの"
+"物語だけとなりました。\n"
 "\n"
-"Ce récit relatait comment, alors qu'ils avaient été tués jusqu'au dernier, "
-"une dame de lumière émergea de l'eau et pleura sur leur sort, causant un "
-"miracle.\n"
+"その物語によれば、彼らが一見、殺されてしまった後に光の乙女が水面から現れ、彼"
+"らの運命に嘆いたことで真の奇跡が起きたそうです。\n"
 "\n"
-"Car devant elle se tenait l'ordre au complet, vivant et vaillant, prêt au "
-"combat à nouveau."
+"彼女の前には騎士団全員が生きていて、武装し、もう一度戦う気概に溢れていたので"
+"す。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:152
@@ -2002,17 +1943,15 @@ msgid ""
 "For before her now stood the entire order, alive and armed, raring to fight "
 "once more."
 msgstr ""
-"Bientôt, les chansons dans les tavernes et fables autour du feu avaient "
-"oublié les combats des ondins et cette histoire n'en devint qu'une des "
-"péripéties des Chevaliers de la Tour d'Argent, de leur résistance désespérée "
-"sur les rives de l'Avalynne contre le Duc Pourpre.\n"
+"やがて、居酒屋の歌や暖炉のまわりで語られる話では、マーフォークの戦いは忘れ去"
+"られて、銀の尖塔騎士団の苦難の物語、Crimson Duke との Avalynne 海岸での決死の"
+"戦いの物語だけとなりました。\n"
 "\n"
-"Ce récit relatait comment, alors qu'ils avaient été tués jusqu'au dernier, "
-"une dame de lumière émergea de l'eau et pleura sur leur sort, causant un "
-"miracle.\n"
+"その物語によれば、彼らが殺されてしまった後に光の乙女が水面から現れ、彼らの運"
+"命に嘆いたことで真の奇跡が起きたそうです。\n"
 "\n"
-"Car devant elle se tenait l'ordre au complet, vivant et vaillant, prêt au "
-"combat à nouveau."
+"彼女の前には騎士団全員が生きていて、武装し、もう一度戦う気概に溢れていたので"
+"す。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:163
@@ -2024,13 +1963,12 @@ msgid ""
 "All who listened knew that this band of knights was long gone and could not "
 "ride against the dark this time."
 msgstr ""
-"Cette saga était connue partout dans Wesnoth et souvent racontée lorsque les "
-"brigands d'Asheviere pillaient la campagne ou quand les hordes de Mal-"
-"Ravanal massacraient tous ceux qu'elles trouvaient.\n"
+"この物語は Wesnoth の国中に知られ、Asheviere の山賊による地方都市の略奪時、あ"
+"るいは、Mal-Ravanal の大軍団が目に入る者全てを虐殺していた時にしばしば語られ"
+"ました。\n"
 "\n"
-"Tous ceux qui écoutaient savaient que cette bande de chevaliers était morte "
-"depuis longtemps et ne pourrait pas chevaucher contre la noirceur cette fois-"
-"ci."
+"この話を初めて聞いた人々はすべてが、この騎士団は遥か昔に消滅していて、暗闇に"
+"対抗することは今ではもう不可能なことを知っていました。"
 
 #. [part]
 #: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:168
@@ -2044,19 +1982,19 @@ msgid ""
 "And that hope, that dream that all would be well in the end, well... that "
 "was already a wonderful legacy."
 msgstr ""
-"Elle donnait par contre un espoir, l'espoir que quelqu'un le ferait.\n"
+"それでも、誰かが立ち向かってくれるという希望もまだありました。\n"
 "\n"
-"Qu'une bande de héros courageux, que ce soit un prince perdu et son mentor "
-"ou des gardes de la frontière, riposterait et mettrait fin à cette nouvelle "
-"menace, ramenant la paix au royaume.\n"
+"勇敢な英雄の一団、または、失われた王子と指導者、もしくは、どこかの戦線から来"
+"た警護兵団など、そうした人物が出現し、反撃し、この新しい脅威を終わらせ、王国"
+"に平和をもたらしてくれる、と。\n"
 "\n"
-"Et cet espoir, cette croyance que tout finirait bien… c'était déjà un "
-"magnifique legs."
+"そして、そうした希望や夢は、最後には全てがうまくいくと... そう、それがもう既"
+"に素晴らしい遺産となったわけです。"
 
 #. [unit_type]: id=Grandmaster, race=human
 #: knights_of_the_silver_spire\units\Grandmaster.cfg:7
 msgid "Grand Master"
-msgstr "Grand maître"
+msgstr "騎士団長"
 
 #. [unit_type]: id=Grandmaster, race=human
 #: knights_of_the_silver_spire\units\Grandmaster.cfg:23
@@ -2068,18 +2006,16 @@ msgid ""
 "would have broken already, for the glory of their cause and the hope of a "
 "better future."
 msgstr ""
-"Les grands maîtres sont à la tête d'ordres de chevalerie, ayant fait preuve "
-"de force par de nombreux faits d'armes sur le champ de bataille en tuant "
-"d'innombrables menaces et d'une volonté d'acier en dirigeant leur "
-"chevaliers. Ces commandants renommés se tiennent en première ligne d'une "
-"charge vertueuse, inspirant leur hommes pour un autre assaut alors que "
-"d'autres auraient déjà brisé, pour la gloire de leur cause et l'espoir d'un "
-"meilleur futur."
+"グランドマスター（Grand Master）は騎士団の長であり、戦場において無数の脅威を"
+"打ち砕く腕力と、仲間の騎士たちに向ける強い意志を持っています。この偉大な指揮"
+"官は、正義の突撃の先頭に立ち、他の者たちが自信を失いかけた場合でも、自らの目"
+"的の栄誉と、より良い未来を求める希望を胸に、再び突撃を開始するよう部下を鼓舞"
+"します。"
 
 #. [unit_type]: id=Horse Lord, race=human
 #: knights_of_the_silver_spire\units\Horse_Lord.cfg:7
 msgid "Horse Lord"
-msgstr "Seigneur des chevaux"
+msgstr "騎馬貴族"
 
 #. [unit_type]: id=Horse Lord, race=human
 #: knights_of_the_silver_spire\units\Horse_Lord.cfg:22
@@ -2088,15 +2024,14 @@ msgid ""
 "and are respected by all, friend or foe. Their sword can kill most ordinary "
 "enemies, and their morning star crushes those who are left."
 msgstr ""
-"Comptant parmi les meilleurs des hommes des plaines, les seigneurs des "
-"chevaux sont à la tête de leurs clans et respectés de tous, amis comme "
-"ennemis. Leur épée peut tuer la plupart des adversaires ordinaires et leur "
-"étoile du matin écrase ceux qui restent."
+"平原で最も偉大な男性、騎馬貴族（Horse Lord）は家長であり、敵と味方の双方から"
+"尊敬されています。剣は通常の敵であれば殺すことができ、それ以外の敵でもモーニ"
+"ングスターで粉砕します。"
 
 #. [unit_type]: id=Horseman Commander, race=human
 #: knights_of_the_silver_spire\units\Horseman_Commander.cfg:7
 msgid "Horseman Commander"
-msgstr "Commandant à cheval"
+msgstr "騎乗司令官"
 
 #. [unit_type]: id=Horseman Commander, race=human
 #: knights_of_the_silver_spire\units\Horseman_Commander.cfg:28
@@ -2106,15 +2041,14 @@ msgid ""
 "powerful warriors, these men patrol the countryside and eliminate any and "
 "all threats to peace in the frontier villages."
 msgstr ""
-"Dirigeants des gardes frontaliers, les commandants montés mènent la garnison "
-"qui assure la paix dans les provinces les plus reculées de Wesnoth. Guides "
-"efficaces et guerriers puissants, ces hommes patrouillent la campagne et "
-"éliminent toute menace à la paix dans les villages frontaliers."
+"国境警備隊のリーダーである騎兵の司令官は、Wesnoth の外郭地の平和を守る守備隊"
+"を指揮します。有能な指導者かつ強力な戦士でもあるので、地方の警備も行い、辺境"
+"の村の平和を危うくする全ての脅威をも排除します。"
 
 #. [unit_type]: id=Junior Commander, race=human
 #: knights_of_the_silver_spire\units\Junior_Commander.cfg:7
 msgid "Junior Commander"
-msgstr "Jeune commandant"
+msgstr "下級司令官"
 
 #. [unit_type]: id=Junior Commander, race=human
 #: knights_of_the_silver_spire\units\Junior_Commander.cfg:28
@@ -2125,16 +2059,15 @@ msgid ""
 "Wesnoth’s army, where they gain experience leading fellow troops and honing "
 "their prowess in battle."
 msgstr ""
-"A environ 17 ou 18 ans, les écuyers ne sont pas des chevaliers à part "
-"entière, mais ont acquis un savoir et une maîtrise complète de leur monture. "
-"Les écuyers les plus compétents obtiennent parfois le commandement d'une "
-"petite unité dans l'armée de Wesnoth, où ils gagnent de l'expérience en "
-"menant des troupes et en perfectionnant leurs techniques au combat."
+"弱冠17歳や18歳という年齢では、騎士の従者は正式な騎士にはなれませんが、馬を乗"
+"りこなす知識と技術は騎士に劣るわけではありません。騎士の従者のうち優秀な者"
+"は、下級司令官（Junior Commander）として Wesnoth 軍の小部隊の指揮を任されるこ"
+"ともあり、そこで仲間の部隊を率いる経験を積み、戦闘能力を高めていきます。"
 
 #. [unit_type]: id=Mounted Fighter, race=human
 #: knights_of_the_silver_spire\units\Mounted_Fighter.cfg:7
 msgid "Mounted Fighter"
-msgstr "Général monté"
+msgstr "騎馬兵"
 
 #. [unit_type]: id=Mounted Fighter, race=human
 #: knights_of_the_silver_spire\units\Mounted_Fighter.cfg:21
@@ -2144,15 +2077,14 @@ msgid ""
 "commanding their comrades, and they are the ones that become captains of the "
 "armies of the Clans."
 msgstr ""
-"Ls nobles des plaines sont entraînés avec le reste de leurs cavaliers dans "
-"le but de devenir de grands guerriers. Toutefois, ils sont aussi entraînés à "
-"commander leurs camarades ; ce sont eux qui deviennent les capitaines des "
-"armées des clans."
+"平原で育った貴族の男性は、他の騎兵とともに、偉大な戦士になるための訓練を受け"
+"ます。しかし、彼らは仲間を指揮する訓練も受けていて、氏族の軍隊の隊長となるの"
+"が彼らです。"
 
 #. [unit_type]: id=Mounted General, race=human
 #: knights_of_the_silver_spire\units\Mounted_General.cfg:7
 msgid "Mounted General"
-msgstr "Combattant monté"
+msgstr "騎馬将軍"
 
 #. [unit_type]: id=Mounted General, race=human
 #: knights_of_the_silver_spire\units\Mounted_General.cfg:29
@@ -2165,18 +2097,16 @@ msgid ""
 "strength, however, lies in their ability to inspire great courage in their "
 "men, who fight fearlessly and tenaciously under their command."
 msgstr ""
-"Passant sans effort de la lance à la masse, les généraux montés se vantent "
-"d'une grande habilité au combat individuel et peuvent tenir tête à la plus "
-"puissante des oppositions. Ils maîtrisent leur monture, sont capables de "
-"couvrir de grandes distances rapidement lors de leur patrouille, et ont "
-"l'œil pour détecter et éliminer tout danger périlleux. Leur plus grande "
-"force, cependant, repose dans leur capacité d'inspirer du courage aux "
-"hommes, qui se battent sans peur et avec ténacité sous leur commandement."
+"ランスとメイスを自在に操る騎馬将軍（Mounted General）は、個人の戦闘で絶大な能"
+"力を発揮し、強大な敵をも相手にすることができます。馬を巧みに乗りこなして、長"
+"大な距離を素早く巡回し、鋭い目であらゆる危険を察知して排除します。しかし、彼"
+"らの最大の強みは、部下に大きな勇気を与えることであり、部下は彼らの指揮の下、"
+"恐れることなく粘り強く戦います。"
 
 #. [unit_type]: id=Mounted Warrior, race=human
 #: knights_of_the_silver_spire\units\Mounted_Warrior.cfg:7
 msgid "Mounted Warrior"
-msgstr "Guerrier monté"
+msgstr "騎馬兵士"
 
 #. [unit_type]: id=Mounted Warrior, race=human
 #: knights_of_the_silver_spire\units\Mounted_Warrior.cfg:21
@@ -2186,15 +2116,14 @@ msgid ""
 "battlefield with great speed, and can provide much needed assistance to "
 "different fronts."
 msgstr ""
-"Commandants des plaines, les guerriers montés savent parfaitement utiliser "
-"l'épée et l'étoile du matin. Ils se déplacent à cheval à travers le champ de "
-"bataille avec célérité et peuvent fournir une assistance salutaire sur "
-"plusieurs fronts."
+"平原のリーダーである騎馬兵士（Mounted Warrior）は、剣とモーニングスターを使い"
+"こなします。馬に乗って戦場を素早く移動して、様々な戦場で必要な支援を行うこと"
+"ができます。"
 
 #. [attacks]: id=shock
 #: knights_of_the_silver_spire\utils\abilities.cfg:10
 msgid "shock"
-msgstr "choc"
+msgstr "衝撃"
 
 #. [attacks]: id=shock
 #: knights_of_the_silver_spire\utils\abilities.cfg:11
@@ -2202,8 +2131,8 @@ msgid ""
 "When this attack is used on offense, the opponent will retaliate with one "
 "less strike than normally, to a minimum of one strike."
 msgstr ""
-"Lorsque cette attaque est utilisée offensivement, l'adversaire répliquera "
-"avec un coup de moins que d'habitude, avec un minimum d'un coup."
+"この攻撃を攻撃時に使用すると、相手の反撃は普通よりも攻撃回数が1回少なくなりま"
+"す。但し1回を下回ることはありません。"
 
 #. [attacks]: id=shock
 #: knights_of_the_silver_spire\utils\abilities.cfg:12
@@ -2211,8 +2140,8 @@ msgid ""
 "This unit’s melee attack can overwhelm the defenses of enemies, preventing "
 "them from retaliating as effectively."
 msgstr ""
-"L'attaque de mêlée de cette unité peut surpasser les défenses ennemies, les "
-"empêchant de riposter efficacement."
+"このユニットの近接攻撃は敵の防御力を圧倒して、その反撃能力を効果的に減じるこ"
+"とができます。"
 
 #: knights_of_the_silver_spire\utils\characters.cfg:8
 msgid "Vaedyr"
@@ -2220,62 +2149,48 @@ msgstr "Vaedyr"
 
 #: knights_of_the_silver_spire\utils\characters.cfg:39
 msgid "Lady Ariel"
-msgstr "Dame Ariel"
+msgstr "Lady Ariel"
 
 #: knights_of_the_silver_spire\utils\characters.cfg:58
 msgid "Duke Myrraent"
-msgstr "Duc Myrraent"
+msgstr "Myrraent 男爵"
 
 #: knights_of_the_silver_spire\utils\characters.cfg:70
 msgid "Crimson Duke"
-msgstr "Duc Pourpre"
+msgstr "Crimson Duke"
 
 #. [effect]: type=blade
 #: knights_of_the_silver_spire\utils\characters.cfg:88
 #: knights_of_the_silver_spire\utils\characters.cfg:156
 msgid "fangs"
-msgstr "dents"
+msgstr "fangs"
 
 #: knights_of_the_silver_spire\utils\characters.cfg:115
 msgid "Hidden Figure"
-msgstr "Figure mystérieuse"
+msgstr "Hidden Figure"
 
 #: knights_of_the_silver_spire\utils\characters.cfg:126
 msgid "Baron Luroc"
-msgstr "Baron Luroc"
+msgstr "Luroc 男爵"
 
 #: knights_of_the_silver_spire\utils\characters.cfg:137
 msgid "Bloody Baron"
-msgstr "Baron Sanglant"
+msgstr "血の男爵"
 
 #. [message]: speaker=unit
 #: knights_of_the_silver_spire\utils\deaths.cfg:16
 msgid "I-I am sorry everyone... I fear I shall not be able to help anymore..."
-msgstr ""
-"Je-je suis désolé tout le monde... J'ai bien peur que je ne pourrai pas "
-"aider plus..."
+msgstr "す、すまない、みんな... もう、これ以上は無理かもしれない..."
 
 #. [message]: speaker=unit
 #: knights_of_the_silver_spire\utils\deaths.cfg:32
 msgid "Nooo... My people needed me..."
-msgstr "Nooon… Ils ont besoin de moi..."
+msgstr "ウウゥ… 我が民には私が必要なのに..."
 
 #. [objective]: condition=lose
 #: knights_of_the_silver_spire\utils\misc.cfg:6
 msgid "Death of any loyal or leader unit, whether yours or allied"
-msgstr "Mort d'un chef où d'une unité loyale, qu'elle soit vôtre ou alliée"
+msgstr "自軍・同盟軍を含む忠義・忠誠ユニットとリーダーの死亡"
 
 #~ msgid "Acknowledgements"
-#~ msgstr "Remerciements"
-
-#~ msgid "Acknowledgments"
-#~ msgstr "Remerciements"
-
-#~ msgid "Eric S. Raymond (ESR)"
-#~ msgstr "Eric S. Raymond (ESR)"
-
-#~ msgid "For his Battle for Wesnoth Campaign Design How-to."
-#~ msgstr "Pour son Battle for Wesnoth Campaign Design How-to."
-
-#~ msgid "Iris Morelle (Irydacea/shadowm)"
-#~ msgstr "Iris Morelle (Irydacea/shadowm)"
+#~ msgstr "謝辞"

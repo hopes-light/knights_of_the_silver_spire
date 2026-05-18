@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-05-05 21:56 UTC\n"
+"POT-Creation-Date: 2022-08-23 15:07 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -139,37 +139,27 @@ msgstr ""
 
 #. [about]
 #: knights_of_the_silver_spire\_main.cfg:108
-msgid "Japanese Translation"
+#: knights_of_the_silver_spire\_main.cfg:117
+msgid "Acknowledgements"
 msgstr ""
 
 #. [entry]
 #: knights_of_the_silver_spire\_main.cfg:110
-msgid "chee/k.k konami,k"
-msgstr ""
-
-#. [about]
-#: knights_of_the_silver_spire\_main.cfg:114
-#: knights_of_the_silver_spire\_main.cfg:123
-msgid "Special Thanks"
-msgstr ""
-
-#. [entry]
-#: knights_of_the_silver_spire\_main.cfg:116
 msgid "The Battle for Wesnoth project's contributors over the years."
 msgstr ""
 
 #. [entry]
-#: knights_of_the_silver_spire\_main.cfg:119
+#: knights_of_the_silver_spire\_main.cfg:113
 msgid "... Otherwise nobody would be here ..."
 msgstr ""
 
 #. [entry]
-#: knights_of_the_silver_spire\_main.cfg:125
+#: knights_of_the_silver_spire\_main.cfg:119
 msgid "Whoever wrote the description of the Mermaid Diviner"
 msgstr ""
 
 #. [entry]
-#: knights_of_the_silver_spire\_main.cfg:128
+#: knights_of_the_silver_spire\_main.cfg:122
 msgid "Where do you all think I got the inspiration for this?"
 msgstr ""
 
@@ -1395,7 +1385,7 @@ msgstr ""
 msgid ""
 "It still gave hope, however, that someone would.\n"
 "\n"
-"That some plucky band of heroes, whether it be a lost prince and his mentor or some guards from the frontier would fight back and end this new threat, bringing back peace to the realm.\n"
+"That some plucky band of heroes, whether it be a lost prince and his mentor or some guards from the frontier, would fight back and end this new threat, bringing back peace to the realm.\n"
 "\n"
 "And that hope, that dream that all would be well in the end, well... that was already a wonderful legacy."
 msgstr ""
