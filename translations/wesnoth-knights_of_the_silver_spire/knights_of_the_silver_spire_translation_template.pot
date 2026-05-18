@@ -1,0 +1,1526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2022-07-26 18:50 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [campaign]: id=knights_of_the_silver_spire, type=sp
+#. [side]
+#: knights_of_the_silver_spire\_main.cfg:16
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:42
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:32
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:32
+#: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:32
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:32
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:41
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:47
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:32
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:37
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:37
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:40
+#: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:35
+msgid "Knights of the Silver Spire"
+msgstr ""
+
+#. [campaign]: id=knights_of_the_silver_spire, type=sp
+#: knights_of_the_silver_spire\_main.cfg:17
+msgid "KotSS"
+msgstr ""
+
+#. [campaign]: id=knights_of_the_silver_spire, type=sp
+#: knights_of_the_silver_spire\_main.cfg:23
+msgid ""
+"The story of the Knights of the Silver Spire and their battles against the evil Crimson Duke to keep the Northlands safe.\n"
+"    \n"
+"(Intermediate level, 9 scenarios)."
+msgstr ""
+
+#. [campaign]: id=knights_of_the_silver_spire, type=sp
+#: knights_of_the_silver_spire\_main.cfg:27
+msgid "Horseman"
+msgstr ""
+
+#. [campaign]: id=knights_of_the_silver_spire, type=sp
+#: knights_of_the_silver_spire\_main.cfg:27
+msgid "Easy"
+msgstr ""
+
+#. [campaign]: id=knights_of_the_silver_spire, type=sp
+#: knights_of_the_silver_spire\_main.cfg:28
+msgid "Knight"
+msgstr ""
+
+#. [campaign]: id=knights_of_the_silver_spire, type=sp
+#: knights_of_the_silver_spire\_main.cfg:28
+msgid "Normal"
+msgstr ""
+
+#. [campaign]: id=knights_of_the_silver_spire, type=sp
+#: knights_of_the_silver_spire\_main.cfg:29
+msgid "Paladin"
+msgstr ""
+
+#. [campaign]: id=knights_of_the_silver_spire, type=sp
+#: knights_of_the_silver_spire\_main.cfg:29
+msgid "Hard"
+msgstr ""
+
+#. [about]
+#: knights_of_the_silver_spire\_main.cfg:57
+msgid "Campaign design and programming"
+msgstr ""
+
+#. [entry]
+#: knights_of_the_silver_spire\_main.cfg:59
+msgid "hopelight"
+msgstr ""
+
+#. [about]
+#: knights_of_the_silver_spire\_main.cfg:63
+msgid "Original vampire faction (Era of Myths)"
+msgstr ""
+
+#. [entry]
+#: knights_of_the_silver_spire\_main.cfg:65
+msgid "Jester"
+msgstr ""
+
+#. [entry]
+#: knights_of_the_silver_spire\_main.cfg:68
+msgid "Melon"
+msgstr ""
+
+#. [entry]
+#: knights_of_the_silver_spire\_main.cfg:71
+msgid "Eternal"
+msgstr ""
+
+#. [entry]
+#: knights_of_the_silver_spire\_main.cfg:74
+msgid "EVILEST"
+msgstr ""
+
+#. [entry]
+#: knights_of_the_silver_spire\_main.cfg:77
+msgid "Eleazar"
+msgstr ""
+
+#. [about]
+#: knights_of_the_silver_spire\_main.cfg:81
+msgid "War of Legends (Vampire code and associated images)"
+msgstr ""
+
+#. [entry]
+#: knights_of_the_silver_spire\_main.cfg:83
+msgid "Tahsin Jahin Khalid (Lord-Knightmare)"
+msgstr ""
+
+#. [about]
+#: knights_of_the_silver_spire\_main.cfg:87
+msgid "Horse Lord unit line"
+msgstr ""
+
+#. [entry]
+#: knights_of_the_silver_spire\_main.cfg:89
+#: knights_of_the_silver_spire\_main.cfg:95
+msgid "Battle for Wesnoth team"
+msgstr ""
+
+#. [about]
+#: knights_of_the_silver_spire\_main.cfg:93
+msgid "Mounted General unit line"
+msgstr ""
+
+#. [about]
+#: knights_of_the_silver_spire\_main.cfg:99
+#: knights_of_the_silver_spire\_main.cfg:108
+msgid "Acknowledgements"
+msgstr ""
+
+#. [entry]
+#: knights_of_the_silver_spire\_main.cfg:101
+msgid "The Battle for Wesnoth project's contributors over the years."
+msgstr ""
+
+#. [entry]
+#: knights_of_the_silver_spire\_main.cfg:104
+msgid "... Otherwise nobody would be here ..."
+msgstr ""
+
+#. [entry]
+#: knights_of_the_silver_spire\_main.cfg:110
+msgid "Whoever wrote the description of the Mermaid Diviner"
+msgstr ""
+
+#. [entry]
+#: knights_of_the_silver_spire\_main.cfg:113
+msgid "Where do you all think I got the inspiration for this?"
+msgstr ""
+
+#. [scenario]: id=01_Another_Patrol
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:15
+msgid "Another Patrol"
+msgstr ""
+
+#. [side]: id=BL1, type=Thief
+#. [side]: id=BL1, type=Bandit
+#. [side]: id=BL1, type=Outlaw
+#. [side]: id=BL2, type=Dark Adept
+#. [side]: id=BL1, type=Trapper
+#. [side]
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:55
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:45
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:56
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:72
+#: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:51
+#: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:72
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:51
+msgid "Bandits"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:84
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:99
+msgid "<i>Version Information</i>"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:85
+msgid ""
+"This campaign is designed to also work without the War of Legends add-on.\n"
+"            \n"
+"War of Legends is currently installed which means you will play the version with vampire units from the Era of Myths.\n"
+"\n"
+"If you want to play the other (lesser) version, uninstall the War of Legends add-on.\n"
+"\n"
+"Do note, the other version is meant as a 'stopgap' for people who cannot install War of Legends for some reason.\n"
+"\n"
+"In any case, onto the story!"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:100
+msgid ""
+"This campaign is designed to also work without the <i>War of Legends</i> add-on.\n"
+"            \n"
+"It is currently not installed which means you will play the version without vampire units from the Era of Myths.\n"
+"\n"
+"If you want to play the other (better) version, install the <i>War of Legends</i> add-on.\n"
+"\n"
+"Do note, this version is meant as a 'stopgap' for people who cannot install War of Legends for some reason.\n"
+"\n"
+"In any case, onto the story!"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:115
+msgid ""
+"In the year 253 since the founding of Wesnoth, the kingdom prospered under the rule of Haldric III, King of Wesnoth.\n"
+"\n"
+"The orcish menace had been beaten back and the lands between Elensefar and Weldyn pacified."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:120
+msgid "Since 199YW, colonization of the lands north of the Great River had begun and now, more than fifty years later, thriving settlements had sprung up at the foot of the Heart Mountains and even beyond, in the Far North."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:123
+msgid ""
+"However, while the rest of the kingdom enjoyed relative peace, this was far from the case in the northernmost reaches where the orcish presence was far greater than further south.\n"
+"            \n"
+"This, in turn, led to widespread banditry as the army was often occupied repelling orcish incursions."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:128
+msgid ""
+"The early settlements would not have survived without help from knightly orders who roamed the land, safeguarding vital trade routes and protecting the citizenry from ne'er-do-wells.\n"
+"\n"
+"Amongst these righteous bands of warriors there were the Knights of the Silver Spire, named for the argent shine of the tower that served as their headquarters within Dorest, the largest city north of the Longlier."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:133
+msgid ""
+"Their leader was a young knight of the realm who had gone alongside his friends to help make the Northlands safe.\n"
+"            \n"
+"Though they were relatively new and few in numbers, they had already started to establish themselves as stalwart defenders of the innocent and were tireless in their battles against the enemies of the kingdom."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:140
+msgid ""
+"It was thus just another day, another patrol on the road towards Lmarig when they learned that the village was being raided by bandits, servants of the Crimson Duke, a new bandit lord that had risen in the region.\n"
+"\n"
+"They sped with all haste towards the village, hoping to help the villagers and perhaps even find some way to take out the bandits' leader."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:145
+msgid ""
+"Chapter One\n"
+"<i>Just Another Patrol</i>"
+msgstr ""
+
+#. [message]: speaker=BL1
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:164
+msgid "Oh my, ya didn't have that many riches but hey, it's still sum'thing. Tha Crimson Duke'll be happy!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:168
+msgid "You pitiful wretch, attacking defenseless civilians!"
+msgstr ""
+
+#. [message]: speaker=BL1
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:172
+msgid "Foolish knights, prancing around... Aight boys, pack up the stuff, we're leavin' with da loot!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:176
+msgid "Rabble like you should be hanging, not blabbering. Let us rectify this travesty forthwith."
+msgstr ""
+
+#. [message]: speaker=BL1
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:188
+msgid "Fall back, fall ba—!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:198
+msgid "The scum is dead."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:205
+msgid "Scatter the wretches. They will run back to their main camp and we will slaughter them there."
+msgstr ""
+
+#. [message]: speaker=BL1
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:214
+msgid "We've got all we could've asked for. Let's lose'em in the mountains!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\01_Another_Patrol.cfg:218
+msgid "No! The villagers won't survive without food!"
+msgstr ""
+
+#. [scenario]: id=02_Bandit_Camp
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:5
+msgid "Bandit Camp"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:71
+msgid ""
+"After the battle, the remains of the bandit force dispersed, trying to head back to safety and their camp.\n"
+"\n"
+"The knights followed them into the mountains, that they might put an end to this specific threat, once and for all."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:76
+msgid ""
+"Chapter Two\n"
+"<i>Bandit Camp</i>"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:95
+msgid "Oh my, more vermin to kill..."
+msgstr ""
+
+#. [message]: speaker=BBM
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:99
+msgid "Fools, you led them right here!"
+msgstr ""
+
+#. [message]: speaker=BL1
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:103
+msgid "I'll handle 'em master, the Crimson Duke won't be unhappy!"
+msgstr ""
+
+#. [message]: speaker=BBM
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:107
+msgid "See that you give him no cause to be displeased."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:120
+msgid "That man seemed to be their leader. We must go through them fast and catch him!"
+msgstr ""
+
+#. [message]: speaker=BL1
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:132
+msgid "Nooo, master!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:142
+msgid "And down he goes... That amount of devotion was unusual, however... Is it because of that <i>Crimson Duke</i> they have as a leader?"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:149
+msgid "Let us try and catch their <i>master</i> to find out why."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\02_Bandit_Camp.cfg:158
+msgid "This is too slow, at this rate he will be lost to us!"
+msgstr ""
+
+#. [scenario]: id=03_Merfolk_Party
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:5
+msgid "Merfolk Party"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:98
+msgid ""
+"The knights hurried after the mysterious figure and attempted to find out who its was.\n"
+"            \n"
+"However, it proved elusive and its trail was lost north of the mountains."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:103
+msgid "This was not all in vain however, for they encountered merfolk battling bandits and dark mages at the source of the River Oumph."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:106
+msgid ""
+"Chapter Three\n"
+"<i>Merfolk Party</i>"
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:125
+msgid "Hail, noble knights. What brings you here?"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:129
+msgid "Greetings to you, fair lady. We hunt bandits who have attacked human villages south of here. They have eluded us, though others of their ilk seem to have found their way to you."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:133
+msgid "Indeed they have, and I would request your aid, for these ones wish to stop us from heading downriver where their brethren are looting an ancient temple hiding dark relics!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:137
+msgid "Then we must provide assistance against these miscreants!"
+msgstr ""
+
+#. [message]: speaker=BL1
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:149
+msgid "I am sorry... m'lord..."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:156
+msgid "They were quite dedicated to their superiors."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:160
+msgid "Ours were as well, perhaps they are of the same kind. In any case, let us head north as fast as possible."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\03_Merfolk_Party.cfg:169
+msgid "At this rate we shall never reach the temple in time!"
+msgstr ""
+
+#. [scenario]: id=04_Temple_Assault
+#: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:5
+msgid "Temple Assault"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:98
+msgid ""
+"After encountering Lady Ariel and her merfolk troops, they all headed north, to the mouth of the river and the temple located there.\n"
+"            \n"
+"All along, they pondered the motives of these bandits and the reason of their loyalty to the one the caped figure represented, though they believed they would soon obtain the answers."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:103
+msgid ""
+"Chapter Four\n"
+"<i>Temple Assault</i>"
+msgstr ""
+
+#. [label]
+#: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:124
+msgid "Ancient Temple"
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:130
+msgid "We have arrived. It seems they have already entered the temple!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:134
+msgid "In that case, we shall take them out!"
+msgstr ""
+
+#. [message]: speaker=BL2
+#: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:138
+msgid "Enemies are here, protect the master!"
+msgstr ""
+
+#. [message]: speaker=BL2
+#: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:150
+msgid "Master, we have failed you..."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:157
+msgid "Finally, we shall find out what this is all about."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\04_Temple_Assault.cfg:166
+msgid "They will have stolen everything by the time we get in!"
+msgstr ""
+
+#. [scenario]: id=05_Sacrilege
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:5
+msgid "Sacrilege"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:70
+msgid ""
+"They entered the temple with all haste, that the enemy may be stopped.\n"
+"            \n"
+"Advancing through these ruins, they felt a chill permeate them, as though a darkness was creeping through."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:75
+msgid ""
+"Chapter Five\n"
+"<i>Sacrilege</i>"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:101
+msgid "Wait... You were conniving with the bandits raiding our villages!"
+msgstr ""
+
+#. [message]: speaker=BBM
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:105
+msgid "You... You killed quite a few of my master's servants... How annoying..."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:109
+msgid "What are you doing with these dark relics!"
+msgstr ""
+
+#. [message]: speaker=BBM
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:113
+msgid "Taking them with me for the Crimson Duke has need of them."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:117
+msgid "You shall do no such thing!"
+msgstr ""
+
+#. [message]: speaker=BBM
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:121
+msgid "You have no way of stopping me, weakling. Now, do forgive me while I take my leave."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:125
+msgid "Return these to their place!"
+msgstr ""
+
+#. [message]: speaker=BBH
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:138
+msgid "Aargh, the Light always hurts... Fools, try and catch me."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\05_Sacrilege.cfg:150
+msgid "That was Baron Luroc, a retainer of Duke Myrraent! We have to arrest him!"
+msgstr ""
+
+#. [scenario]: id=06_Shadows_Rise
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:5
+msgid "Shadows Rise"
+msgstr ""
+
+#. [objective]: condition=win
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:22
+msgid "Hold until dawn"
+msgstr ""
+
+#. [objectives]
+#. [objective]: condition=win
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:24
+#: knights_of_the_silver_spire\utils\misc.cfg:13
+msgid "Defeat all enemy leaders"
+msgstr ""
+
+#. [side]
+#. [side]: id=HG, type=General
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:54
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:60
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:74
+msgid "Wesnoth"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:90
+msgid "Though they tried, they failed to catch Baron Luroc within the temple and, once outside, found no trace of him."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:93
+msgid "They were thus left with no recourse but for the knights to head to Farzi, a town within the fiefdom of Duke Myrraent, Luroc's suzerain, in the hopes of informing him of his vassal's conniving with bandits and plundering of forbidden artifacts."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:96
+msgid ""
+"Chapter Six\n"
+"<i>Shadows Rise</i>"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:128
+msgid "Hail, we are the Knights of the Silver Spire and we seek an audience with Duke Myrraent on a matter of utmost import."
+msgstr ""
+
+#. [message]: speaker=SP
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:132
+msgid "I shall inform him, please come in."
+msgstr ""
+
+#. [message]: speaker=BBH
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:166
+msgid "My lord Myrraent is not here, might I be of assistance?"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:170
+msgid "Baron Loruc, traitor to the Crown! We have evidence of your crimes against the realm!"
+msgstr ""
+
+#. [message]: speaker=BBH
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:174
+msgid "I have no time to deal with righteous fools like you. You shall not be tolerated during our rise!"
+msgstr ""
+
+#. [modify_side]
+#. [side]
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:191
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:212
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:74
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:147
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:45
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:50
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:59
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:53
+msgid "Vampires"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:219
+msgid "I shall enjoy turning you all. Now, let us end this charade."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:223
+msgid "Vampires! To battle, everyone! Protect the citizenry and hold until day that we might banish these corpses!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:227
+msgid "Tis not for the rabble you should fear."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:294
+msgid "What have you done, you monster!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:298
+msgid "They have been given a boon they did not deserve that they may better serve our Master."
+msgstr ""
+
+#. [message]: speaker=unit
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:308
+msgid "This should stem the flow a little..."
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:320
+msgid "No, I will not fall here! You have no chance, the sun will not rise and my minions shall end you!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:324
+msgid "His hordes are indeed numerous, prepare to withdraw and call upon aid from Dorest."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:336
+msgid "It should be day by now and yet no sign of the sun..."
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:340
+msgid "I did not pilfer these artifacts without a reason."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:344
+msgid "We are being swarmed and there is little room to maneuver... Fall back, we are at a disadvantage in this battle!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:365
+msgid "Good, another thrall for our forces."
+msgstr ""
+
+#. [message]: speaker=unit
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:369
+msgid "I may fall but I am shielded by the Light, I shall never serve your kind!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\06_Shadows_Rise.cfg:384
+msgid "Foolish zealots... We won't be able to turn them..."
+msgstr ""
+
+#. [scenario]: id=07_Shore_Of_The_Avalynne
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:5
+msgid "Shore of the Avalynne"
+msgstr ""
+
+#. [objective]: condition=win
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:26
+msgid "Kill as many enemies as possible before Vaedyr dies"
+msgstr ""
+
+#. [objectives]
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:28
+msgid "Defeat an enemy leader"
+msgstr ""
+
+#. [note]
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:31
+msgid "Losses are irrelevant. The scenario ends when a leader (Vaedyr or an enemy) dies."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:93
+msgid "The knights rode for a lightless day, heading southwest towards Dorest to warn of the threat, with the vampires hot on their trail."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:96
+msgid "However, they encountered other enemies before the crossing of the Avalynne."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:99
+msgid ""
+"Chapter Seven\n"
+"<i>Shore of the Avalynne</i>"
+msgstr ""
+
+#. [message]: speaker=CDH
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:116
+msgid "What have we here? Knights running away from someone?"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:120
+msgid "Duke Myrraent, you arrive at a most opportune time. We were heading to Dorest to warn of Baron Luroc's treachery but it seems this was unnecessary as you may assist us against him!"
+msgstr ""
+
+#. [message]: speaker=CDH
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:124
+msgid "That is a most serious accusation towards one of my vassals. Pray tell, what crime has he commited?"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:128
+msgid "Not only is he in leagues with the bandits led by the Crimson Duke who have ransacked multiple villages but he is also a vile vampire!"
+msgstr ""
+
+#. [message]: speaker=CDH
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:132
+msgid "Alas, I must decline your request. Knights have always bored me, hunting our kind... And they are so reluctant to obey their betters, unlike common bandits, right, Baron?"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:152
+msgid "Indeed, sire. The highwaymen proved most amenable, unlike this rabble."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:156
+msgid "You are the Crimson Duke? You have been organizing these bandit raids for months!"
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:160
+msgid "Indeed I have, that the kingdom might learn to fear my name. Now submit to superior beings else we shall feast on your blood!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:164
+msgid "We are the knights of the Silver Spire and shall never bow to evil! We may be fated to die but we shall not go quietly! Brothers, kill as many as you can, for Wesnoth and for the Light!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:205
+msgid "Fight on! Kill... more of... them..."
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:227
+msgid "Foolish humans, they believed they could harm us... How laughable!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:231
+msgid "What should we do with them sire, for they cannot be turned easily."
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:235
+msgid "Kill those who remain then stay here and work on dispelling their protections. Hold the rear guard while I head to Dorest."
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:252
+msgid "You are... but... mortals, this is... impossible!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:256
+msgid "Now to his lackey!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:260
+msgid "This cannot be happening, fall back to Farzi!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:278
+msgid "How, you are but wretched humans!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:286
+msgid "Onwards, break them!"
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\07_Shore_Of_The_Avalynne.cfg:290
+msgid "We have not the strength to take Dorest without the artifact, fall back!"
+msgstr ""
+
+#. [scenario]: id=08a_Light_In_The_Dark
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:5
+msgid "Light in the Dark"
+msgstr ""
+
+#. [side]
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:32
+msgid "Merfolk"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:69
+msgid "Though the knights had arrived first, they were not the only one that were heading at the Avalynne."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:72
+msgid ""
+"Chapter Eight\n"
+"<i>Light In The Dark</i>"
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:91
+msgid "Monsters... I had surmised what you were when we passed Farzi but I still did not truly believe I would find bloodsuckers at the end of the knight's trail."
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:95
+msgid "Water scum... It seems your hopes were misplaced."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:99
+msgid "I shall not let you desecrate their corpses and profane their souls! You will fall to the Light!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:103
+msgid "Fools, all of you..."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:107
+msgid "Your fell spells occupy you. You will have no strength for battle and we shall destroy you!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:119
+msgid "Impossible, we are superior!"
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:126
+msgid "The darkness has receded, now let us banish its remains."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:135
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:95
+msgid "I beseech you, o great Light, grant your blessings upon these brave knights who sacrificed themselves against your foes, that they may yet have a chance to save their people."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:157
+msgid "Thank you for this hope, it shall not go to waste! (<i>To the other knights</i>) The <i>Crimson Duke</i> is probably heading for Dorest as we speak! We ride with all haste!"
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:161
+msgid "May you succeed in your quest!"
+msgstr ""
+
+#. [message]: speaker=$this_item.id
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:169
+msgid "What miracle is this!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\08a_Light_In_The_Dark.cfg:178
+msgid "That should be enough, they will now rise with us!"
+msgstr ""
+
+#. [scenario]: id=08b_Soothing_Sight
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:5
+msgid "Soothing Sight"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:55
+msgid ""
+"After this hard-won battle, the knights regrouped to prepare to give chase to the vampire forces' remains.\n"
+"            \n"
+"However, before they could depart, other allies appeared."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:60
+msgid "After all, though the knights had arrived first, they were not the only one that were heading upriver."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:63
+msgid ""
+"Chapter Eight\n"
+"<i>Soothing Light</i>"
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:83
+msgid "Dear knights, I am overjoyed to see you again. When we passed Farzi and saw  signs of battle, I feared the worst."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:87
+msgid "I thank you for your concern, fair lady, though happily it was unwarranted, for though we lost many, we routed the enemy. However, I fear not enough of us are left for the next battle."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:91
+msgid "Left alone, the vampires would still pose a grave threat to all within the North, and the Light shall not allow this to be so."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:113
+msgid "Unbelievable! Thank you from the bottom of our hearts, o Lady of Light, for with this boon, we have a chance of ridding the land of these abominations."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:117
+msgid "Let it be so. Pray tell, where are their remnants headed?"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:128
+msgid "The Bloody Baron headed northeast, towards Farzi."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:132
+msgid "I had left some of my party there, if we hurry we may yet catch them before they reach their fortress!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:147
+msgid "The Crimson Duke headed west, towards the Greenwood."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:151
+msgid "Take care, for those who hide within are no friends to other races. Nor are they even to their own."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\08b_Soothing_Sight.cfg:155
+msgid "I thank you for your warning, I shall take it to heart. Farewell!"
+msgstr ""
+
+#. [scenario]: id=09a_Dawn_over_Dorest
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:5
+msgid "Dawn over Dorest"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:99
+msgid "The knights sped with all haste towards Dorest, that they might stop the Crimson Duke's evil designs from taking form."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:102
+msgid "This was a pressing task for the battle was already fierce in front of the city's walls."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:105
+msgid ""
+"Chapter Nine\n"
+"<i>Dawn over Dorest</i>"
+msgstr ""
+
+#. [message]: speaker=HG
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:127
+msgid "Nooo... The city..."
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:131
+msgid "Finally, this futile resistance is over."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:135
+msgid "The city is lost and without it, the North is cut off from Wesnoth, we have failed!"
+msgstr ""
+
+#. [label]
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:149
+msgid "Silver Spire"
+msgstr ""
+
+#. [message]: speaker=HG
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:155
+msgid "Who are you, accursed monster, and why do you trouble our fair city? ...Wait ...Duke Myrraent, is that you?"
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:159
+msgid "I have thrown away that fake mask. I am the Crimson Duke and you shall all fall at my feet! Now, despair!"
+msgstr ""
+
+#. [message]: speaker=HG
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:163
+msgid "You stand against the kingdom of Wesnoth and have no hope of victory on this day!"
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:167
+msgid "I do not recognize the authority of your pitiful king! You shall all bow down to me!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:171
+msgid "Your dark crusade ends here, Crimson Duke!"
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:175
+msgid "The Knights of the Silver Spire... Did I not slay you all?"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:179
+msgid "The Light does not falter. Your servant is dead and so shall you soon be!"
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:183
+msgid "Go ahead and try, little whelps. The night will soon return and, when it does, you will all die..."
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:195
+msgid "Impossible, deafeated by these wretches!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:199
+msgid "Face the wrath of the Light!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:211
+msgid "He shall haunt this land no longer."
+msgstr ""
+
+#. [message]: speaker=HG
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:215
+msgid "You have our utmost gratitude, oh Knights of the Silver Spire, for you have saved the Northlands and, perhaps, the realm itself from a dark fate."
+msgstr ""
+
+#. [message]: speaker=unit
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:232
+msgid "How, we slew you!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:236
+msgid "Begone, foul corpse!"
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\09a_Dawn_over_Dorest.cfg:246
+msgid "With the night on my side I am unstoppable! You have no chance!"
+msgstr ""
+
+#. [scenario]: id=09b_Alight_From_All_Sides
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:5
+msgid "Alight From All Sides"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:83
+msgid ""
+"The vampires had suffered a devastating blow with the loss of their leader and were now on the run, fleeing towards their lair at Farzi.\n"
+"            \n"
+"They hoped to weather the storm headed their way within the walls of the fortified isle."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:88
+msgid "They, however, had not expected merfolk to hold them back and keep them from reaching their haven until the knights arrived to finish them off."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:91
+msgid ""
+"Chapter Nine\n"
+"<i>Alight From All Sides</i>"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:110
+msgid "Hurry and kill this vermin! We need to reach the island!"
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:114
+msgid "You will not reach safety, vampire. All that awaits you is a final death."
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:118
+msgid "Foolish mermaid, you face beings far older than you. You are not feared here."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:122
+msgid "Fear is irrelevant, today you will be eradicated. We, the knights of the Silver Spire, swear so!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:126
+msgid "Human scum! Kill them all!"
+msgstr ""
+
+#. [message]: speaker=BB
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:138
+msgid "No... Impossible... Not against wretches like you..."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:149
+msgid "He is dead, we need only finish off the last remains of his despicable ilk. The world will be better off without them. I must thank you for your inestimable assistance against them."
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:153
+msgid "No thanks are necessary, for though he threatened humans now, we would soon have been at risk."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:157
+msgid "Well then, I shall have to report this to the lords in Dorest. May we meet again!"
+msgstr ""
+
+#. [message]: speaker=MP
+#: knights_of_the_silver_spire\scenarios\09b_Alight_From_All_Sides.cfg:161
+msgid "The same to you!"
+msgstr ""
+
+#. [scenario]: id=09c_Death_Amongst_The_Trees
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:5
+msgid "Death Amongst The Trees"
+msgstr ""
+
+#. [objective]: condition=win
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:22
+msgid "Death of the Crimson Duke"
+msgstr ""
+
+#. [side]: id=EL, type=Elvish High Lord
+#. [side]: id=ES, type=Elvish Sylph
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:67
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:83
+msgid "Elves"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:104
+msgid "With the death of their Bloody Baron and the destruction of the dark artifact that had been casting a shadow over the battlefield, the nightborn's plans were shattered and they had no choice but to retreat."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:107
+msgid "They fled west, towards the Greenwood, without thinking of the cruel beings who dwelled there."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:110
+msgid ""
+"Chapter Nine\n"
+"<i>Death Amongst The Trees</i>"
+msgstr ""
+
+#. [message]: speaker=EL
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:129
+msgid "Fell being, pray tell, what do you seek in these woods but death?"
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:133
+msgid "Nothing from you, foolish elf."
+msgstr ""
+
+#. [message]: speaker=ES
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:137
+msgid "You have stepped within our forest, abomination that was once a man, and for that you shall die."
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:141
+msgid "Already making new enemies... dear Crimson Duke, perhaps that will be your end."
+msgstr ""
+
+#. [message]: speaker=EL
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:145
+msgid "Humans here! more fools to kill I see..."
+msgstr ""
+
+#. [message]: speaker=ES
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:149
+msgid "Let us first handle the monsters, then we shall focus on the beasts."
+msgstr ""
+
+#. [message]: speaker=CD
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:161
+msgid "No! We were destined for more than this!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:171
+msgid "I thank you for the slaying of this monster."
+msgstr ""
+
+#. [message]: speaker=ES
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:175
+msgid "Do not dare speak to me, animal! We rejected your kind and for that were banished! Now you intrude upon our domain and for that you shall pay!"
+msgstr ""
+
+#. [message]: speaker=MC
+#: knights_of_the_silver_spire\scenarios\09c_Death_Amongst_The_Trees.cfg:179
+msgid "I am sorry for this state of affair but I have no desire for battle when it is unneeded. (<i>To the knights</i>) Fall back, we retreat!"
+msgstr ""
+
+#. [scenario]: id=10_Epilogue
+#: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:5
+msgid "Epilogue"
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:58
+msgid ""
+"In the Greenwood, between the shadow of the trees, the three-way battle had now ended with the death of the vampires, their Crimson Duke fallen as if pierced by the very light he had tried to scatter away, all that remained of him a corpse upon the ground, food for worms and no trouble for anyone anymore.\n"
+"\n"
+"Now the elves faced other foes, for though it had been almost two hundred years since the civil war and their banishment with few left alive from that time, their hatred of mankind still ran deep.\n"
+"\n"
+"However, today was not to be a day of reckoning, for the human intruders withdrew as fast as possible, seeing no reason to fight a battle they did not want.\n"
+"\n"
+"On that day, the Knights of the Silver Spire avoided a battle against fellow living beings and, perhaps even planted a seed of doubt within those frozen elven hearts, that perhaps their hatred was unwarranted and that there could be a better way."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:74
+msgid ""
+"In the darkness a ray of pure light surged forth, piercing through the vampire's heart and breaking his fell artifact.\n"
+"        \n"
+"As the fell being crumpled, impaled upon a silvery lance, a single ray of sunlight shone upon him as his foul spell broke before the dawn erupted in all its blazing glory, reclaiming its place in the order of things.\n"
+"\n"
+"And so disappeared the last leader of the vampires much like his liege did the night before, as if to confirm their dark dream's final death and the return of peace to the realm."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:89
+msgid ""
+"Before the walls of Dorest a great clash had ended. The duel between the knight and the vampire was over with the would-be conqueror struck down by righteous fury, his hordes run down and exterminated.\n"
+"                        \n"
+"His death brought relief to every soul, for the North was now freed from a grave threat.\n"
+"\n"
+"The victorious defenders were celebrated for their courage and the Knights of the Silver Spire above all, for all had seen their valor upon the field of battle."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:100
+msgid ""
+"Vaedyr and his knights reported the events that had transpired to the lords in Dorest, the treachery of Duke Myrraent and his true identity as the Crimson Duke, vampire and would-be subjugator of the North.\n"
+"            \n"
+"They were justly recompensed for their actions and led a life of virtue afterwards, continuing to act much as they had before, protecting whomever they could."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:105
+msgid ""
+"Lady Ariel and the merfolk enjoyed years of peace after the incident, untroubled by other threats from the surface and enjoying the benefits of their newfound renown in the form of lucrative trade with the humans.\n"
+"    \n"
+"Vaedyr and his men oft visited their shores, reminiscing of battles past and assisting whenever the merfolk's diviners foresaw danger."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:110
+msgid ""
+"Through the bravery of the knights of the Silver Spire, the North, and perhaps all of the continent, were saved from the depredations of the vampire menace.\n"
+"            \n"
+"Though this did not save the land from future turmoil, their deeds were fondly remembered and soon passed into legend and, like all such tales, were embellished over time."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:123
+msgid ""
+"Soon, the songs in taverns and stories around the fireplace had forgotten the part the banished elves had played and this became only a tale of the travails of the knights of the Silver Spire, of their desperate stand on the shore of the Avalynne against the Crimson Duke.\n"
+"                    \n"
+"It told of how, after they had apparently been slain to a man, a maiden of light arose from the water and cried for their fate, bringing about a true miracle.\n"
+"\n"
+"For before her now stood the entire order, alive and armed, raring to fight once more."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:137
+msgid ""
+"Soon, the songs in taverns and stories around the fireplace had forgotten the Bloody Baron's flight and was only a tale of the travails of the knights of the Silver Spire, of their desperate stand on the shore of the Avalynne against the Crimson Duke.\n"
+"                        \n"
+"It told of how, after they had apparently been slain to a man, a maiden of light arose from the water and cried for their fate, bringing about a true miracle.\n"
+"    \n"
+"For before her now stood the entire order, alive and armed, raring to fight once more."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:152
+msgid ""
+"Soon, the songs in taverns and stories around the fireplace had forgotten the battles of the merfolk and was only a tale of the travails of the knights of the Silver Spire, of their desperate stand on the shore of the Avalynne against the Crimson Duke.\n"
+"                        \n"
+"It told of how, after they had been slain to a man, a maiden of light arose from the water and cried for their fate, bringing about a true miracle.\n"
+"    \n"
+"For before her now stood the entire order, alive and armed, raring to fight once more."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:163
+msgid ""
+"This tale was known all through Wesnoth and oft told when the bandits of Asheviere were pillaging the countryside or when the hordes of Mal-Ravanal were slaughtering all they could find.\n"
+"            \n"
+"All who listened knew that this band of knights was long gone and could not ride against the dark this time."
+msgstr ""
+
+#. [part]
+#: knights_of_the_silver_spire\scenarios\10_Epilogue.cfg:168
+msgid ""
+"It still gave hope, however, that someone would.\n"
+"            \n"
+"That some plucky band of heroes. whether it be a lost prince and his mentor or some guards from the frontier. would fight back and end this new threat, bringing back peace to the realm.\n"
+"\n"
+"And that hope, that dream that all would be well in the end, well... that was already a wonderful legacy."
+msgstr ""
+
+#. [unit_type]: id=Grandmaster, race=human
+#: knights_of_the_silver_spire\units\Grandmaster.cfg:7
+msgid "Grand Master"
+msgstr ""
+
+#. [unit_type]: id=Grandmaster, race=human
+#: knights_of_the_silver_spire\units\Grandmaster.cfg:23
+msgid "Grandmasters are the heads of knightly orders, having shown strength of arms upon the battlefield felling countless threats and a strong will directing their fellow knights. These renowned commanders stand at the front of a righteous charge, inspiring their men to launch another assault when others would have broken already, for the glory of their cause and the hope of a better future."
+msgstr ""
+
+#. [unit_type]: id=Horse Lord, race=human
+#: knights_of_the_silver_spire\units\Horse_Lord.cfg:7
+msgid "Horse Lord"
+msgstr ""
+
+#. [unit_type]: id=Horse Lord, race=human
+#: knights_of_the_silver_spire\units\Horse_Lord.cfg:22
+msgid "The greatest of the men of the plains, Horse Lords are heads of their houses and are respected by all, friend or foe. Their sword can kill most ordinary enemies, and their morning star crushes those who are left."
+msgstr ""
+
+#. [unit_type]: id=Horseman Commander, race=human
+#: knights_of_the_silver_spire\units\Horseman_Commander.cfg:7
+msgid "Horseman Commander"
+msgstr ""
+
+#. [unit_type]: id=Horseman Commander, race=human
+#: knights_of_the_silver_spire\units\Horseman_Commander.cfg:28
+msgid "Leaders of the border guards, mounted commanders command the garrisons that keep peace in the outermost provinces of Wesnoth. As effective leaders and powerful warriors, these men patrol the countryside and eliminate any and all threats to peace in the frontier villages."
+msgstr ""
+
+#. [unit_type]: id=Junior Commander, race=human
+#: knights_of_the_silver_spire\units\Junior_Commander.cfg:7
+msgid "Junior Commander"
+msgstr ""
+
+#. [unit_type]: id=Junior Commander, race=human
+#: knights_of_the_silver_spire\units\Junior_Commander.cfg:28
+msgid "At scarcely 17 or 18 years of age, squires are not yet full knights, but still have the knowledge and skill to master their mounts whilst in full panoply. Talented squires are sometimes given command of small units in Wesnoth’s army, where they gain experience leading fellow troops and honing their prowess in battle."
+msgstr ""
+
+#. [unit_type]: id=Mounted Fighter, race=human
+#: knights_of_the_silver_spire\units\Mounted_Fighter.cfg:7
+msgid "Mounted Fighter"
+msgstr ""
+
+#. [unit_type]: id=Mounted Fighter, race=human
+#: knights_of_the_silver_spire\units\Mounted_Fighter.cfg:21
+msgid "The nobles of the men of the plains are trained with the rest of the horsemen to become great warriors. However, they are also trained in commanding their comrades, and they are the ones that become captains of the armies of the Clans."
+msgstr ""
+
+#. [unit_type]: id=Mounted General, race=human
+#: knights_of_the_silver_spire\units\Mounted_General.cfg:7
+msgid "Mounted General"
+msgstr ""
+
+#. [unit_type]: id=Mounted General, race=human
+#: knights_of_the_silver_spire\units\Mounted_General.cfg:29
+msgid "Switching seamlessly between lance and mace, mounted generals boast tremendous skill in individual combat and can hold their own against even the most powerful opposition. They are masters of their mounts, able to cover great distances quickly on their patrols, and have keen eyes for detecting and eliminating all manner of perilous dangers. Their greatest strength, however, lies in their ability to inspire great courage in their men, who fight fearlessly and tenaciously under their command."
+msgstr ""
+
+#. [unit_type]: id=Mounted Warrior, race=human
+#: knights_of_the_silver_spire\units\Mounted_Warrior.cfg:7
+msgid "Mounted Warrior"
+msgstr ""
+
+#. [unit_type]: id=Mounted Warrior, race=human
+#: knights_of_the_silver_spire\units\Mounted_Warrior.cfg:21
+msgid "Leaders of the plains, Mounted Warriors are skilled with the use of the sword and the morning star. Riding horses, they are able to move around the battlefield with great speed, and can provide much needed assistance to different fronts."
+msgstr ""
+
+#. [attacks]: id=shock
+#: knights_of_the_silver_spire\utils\abilities.cfg:10
+msgid "shock"
+msgstr ""
+
+#. [attacks]: id=shock
+#: knights_of_the_silver_spire\utils\abilities.cfg:11
+msgid "When this attack is used on offense, the opponent will retaliate with one less strike than normally, to a minimum of one strike."
+msgstr ""
+
+#. [attacks]: id=shock
+#: knights_of_the_silver_spire\utils\abilities.cfg:12
+msgid "This unit’s melee attack can overwhelm the defenses of enemies, preventing them from retaliating as effectively."
+msgstr ""
+
+#: knights_of_the_silver_spire\utils\characters.cfg:8
+msgid "Vaedyr"
+msgstr ""
+
+#: knights_of_the_silver_spire\utils\characters.cfg:39
+msgid "Lady Ariel"
+msgstr ""
+
+#: knights_of_the_silver_spire\utils\characters.cfg:58
+msgid "Duke Myrraent"
+msgstr ""
+
+#: knights_of_the_silver_spire\utils\characters.cfg:70
+msgid "Crimson Duke"
+msgstr ""
+
+#. [effect]: type=blade
+#: knights_of_the_silver_spire\utils\characters.cfg:88
+#: knights_of_the_silver_spire\utils\characters.cfg:156
+msgid "fangs"
+msgstr ""
+
+#: knights_of_the_silver_spire\utils\characters.cfg:115
+msgid "Hidden Figure"
+msgstr ""
+
+#: knights_of_the_silver_spire\utils\characters.cfg:126
+msgid "Baron Luroc"
+msgstr ""
+
+#: knights_of_the_silver_spire\utils\characters.cfg:137
+msgid "Bloody Baron"
+msgstr ""
+
+#. [message]: speaker=unit
+#: knights_of_the_silver_spire\utils\deaths.cfg:16
+msgid "I-I am sorry everyone... I fear I shall not be able to help anymore..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: knights_of_the_silver_spire\utils\deaths.cfg:32
+msgid "Nooo... My people needed me..."
+msgstr ""
+
+#. [objective]: condition=lose
+#: knights_of_the_silver_spire\utils\misc.cfg:6
+msgid "Death of any loyal or leader unit, whether yours or allied"
+msgstr ""
+
