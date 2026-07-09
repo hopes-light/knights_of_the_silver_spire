@@ -1,0 +1,42 @@
+# Pbl file
+
+icon = "misc/blank-hex.png~BLIT(units/human-loyalists/paladin/paladin.png~RC(magenta>red), 4, -10)~BLIT(units/merfolk/diviner.png~RC(magenta>gold), -1, 9)~BLIT(units/human-loyalists/grand-knight/grand-knight.png~RC(magenta>blue), -19, 13)~MASK(misc/new-journey.png~SCALE(72, 72), 0, 0)"
+title = "Knights of the Silver Spire"
+version = "1.2.0"
+author = "hopelight"
+forum_auth = true
+description = "The story of the Knights of the Silver Spire and their battles against the evil Crimson Duke to keep the Northlands safe.
+
+(Intermediate level, 9 scenarios, 3 endings).
+
+Can be played with or without the War of Legends add-on (it replaces undead units with vampire ones and makes the campaign better).
+
+Please give feedback on the forums, it would be greatly appreciated.
+
+1.2.0:
+ - Updated for 1.18
+ - Balance overhaul: notably, most of the maps are now bigger
+ - Added achievements"
+[translation]
+    language="fr"
+    title="Chevaliers de la Tour d'Argent"
+    description="L'histoire des Chevaliers de la Tour d'Argent et de leur combat contre le maléfique Duc Pourpre pour garder le Nord sûr.
+
+(Niveau intermédiaire, 9 scénarios, 3 fins).
+
+Peut être joué avec ou sans l'extension <i>War of Legends</i> (elle remplace des unités mort-vivantes avec des vampires pour rendre la campagne meilleure).
+
+Veuillez me dire ce que vous en pensez sur les forums, cela serait fortement apprécié.
+
+1.2.0:
+ - Mise à jour pour 1.18
+ - Balance revue: notamment, la majorité des cartes sont plus grandes
+ - Ajout de succès"
+[/translation]
+
+type = "campaign"
+tags = "War of Legends"
+dependencies = War_of_Legends
+[feedback]
+    topic_id = 56104
+[/feedback]
